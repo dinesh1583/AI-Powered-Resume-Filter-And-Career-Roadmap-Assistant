@@ -6,7 +6,7 @@ import bcrypt
 from datetime import datetime, timedelta, timezone
 from typing import Optional, Union, Any
 from jose import jwt
-from backend.core.config import settings
+from core.config import settings
 import logging
 
 logger = logging.getLogger("SECURITY")

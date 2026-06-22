@@ -3,7 +3,7 @@ Industry Trends Router — Endpoints for trending careers, skills, and market da
 """
 from fastapi import APIRouter, Query
 from typing import Optional, List
-from backend.services.trend_service import (
+from services.trend_service import (
     get_trending_careers, get_hot_skills,
     get_ai_risk_data, get_salary_trends,
     get_top_companies, get_platform_stats

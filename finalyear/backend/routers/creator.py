@@ -3,7 +3,7 @@ Creator Economy Router — Endpoints for creator niches and income potential.
 """
 from fastapi import APIRouter
 from pydantic import BaseModel, Field
-from backend.services.creator_service import (
+from services.creator_service import (
     get_all_niches, get_niche_details, calculate_income
 )
 import logging

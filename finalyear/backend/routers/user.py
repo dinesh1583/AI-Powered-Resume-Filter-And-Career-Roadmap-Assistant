@@ -4,9 +4,9 @@ FIX: Replaced deprecated .dict() with .model_dump().
 FIX: Added proper error handling for all DB operations.
 """
 from fastapi import APIRouter, Depends, HTTPException
-from backend.routers.auth import get_current_user
-from backend.models.user_model import UserProfileUpdate, Project
-from backend.database import get_database
+from routers.auth import get_current_user
+from models.user_model import UserProfileUpdate, Project
+from database import get_database
 from datetime import datetime, timezone
 import logging
 
@@ -94,7 +94,7 @@ async def get_analysis(current_user=Depends(get_current_user)):
     # Generate insights on-the-fly if not present (backward compatibility)
     if not analysis.get("insights"):
         try:
-            from backend.services.insights_service import generate_insights
+            from services.insights_service import generate_insights
             insights = generate_insights(analysis)
             analysis["insights"] = insights
             # Cache the generated insights back to MongoDB

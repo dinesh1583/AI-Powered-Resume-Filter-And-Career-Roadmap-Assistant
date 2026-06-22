@@ -4,8 +4,8 @@ Separate optional feature — does NOT modify existing routes.
 Endpoints for exploring passion-based career paths.
 """
 from fastapi import APIRouter, Depends, Query
-from backend.routers.auth import get_current_user
-from backend.services.passion_service import (
+from routers.auth import get_current_user
+from services.passion_service import (
     get_all_passions,
     get_categories,
     get_careers_by_passion,

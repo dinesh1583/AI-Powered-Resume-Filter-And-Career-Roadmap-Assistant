@@ -1,7 +1,7 @@
 import re
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
-from backend.core.config import settings
+from core.config import settings
 import logging
 import certifi
 

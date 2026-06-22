@@ -4,8 +4,8 @@ FIX: Replaced deprecated datetime.utcnow() with timezone-aware datetime.now(time
 FIX: Added better error messages and edge case handling.
 """
 from fastapi import APIRouter, Depends, HTTPException, File, UploadFile
-from backend.routers.auth import get_current_user
-from backend.database import get_database
+from routers.auth import get_current_user
+from database import get_database
 from datetime import datetime, timezone
 import logging
 
@@ -27,10 +27,10 @@ async def upload_resume(file: UploadFile = File(...), current_user=Depends(get_c
     7. Recommendations
     8. Save everything to MongoDB
     """
-    from backend.services.nlp_service import extract_skills_from_text, get_skill_categories
-    from backend.services.career_service import match_careers
-    from backend.services.recommendation_service import get_recommendations
-    from backend.services.roadmap_service import generate_roadmap_steps
+    from services.nlp_service import extract_skills_from_text, get_skill_categories
+    from services.career_service import match_careers
+    from services.recommendation_service import get_recommendations
+    from services.roadmap_service import generate_roadmap_steps
     import pdfplumber
     import io
 
@@ -134,7 +134,7 @@ async def upload_resume(file: UploadFile = File(...), current_user=Depends(get_c
 
     # Step 9b: Generate AI Insights
     try:
-        from backend.services.insights_service import generate_insights
+        from services.insights_service import generate_insights
         ai_insights = generate_insights(analysis_result)
         analysis_result["insights"] = ai_insights
         logger.info(f"🧠 AI insights generated: readiness={ai_insights['career_readiness_score']}")

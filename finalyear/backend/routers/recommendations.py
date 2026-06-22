@@ -3,9 +3,9 @@ Recommendations Router: Get personalized course, video, and project recommendati
 FIX: Added logging and improved error messages.
 """
 from fastapi import APIRouter, Depends, HTTPException
-from backend.routers.auth import get_current_user
-from backend.services.recommendation_service import get_recommendations
-from backend.services.career_service import match_careers
+from routers.auth import get_current_user
+from services.recommendation_service import get_recommendations
+from services.career_service import match_careers
 import logging
 
 logger = logging.getLogger("RECOMMENDATIONS_ROUTER")

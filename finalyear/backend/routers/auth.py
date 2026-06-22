@@ -6,9 +6,9 @@ FIX: Added proper error handling for all DB operations.
 """
 from fastapi import APIRouter, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
-from backend.models.user_model import UserCreate, UserLogin
-from backend.core.security import verify_password, get_password_hash, create_access_token
-from backend.database import get_database
+from models.user_model import UserCreate, UserLogin
+from core.security import verify_password, get_password_hash, create_access_token
+from database import get_database
 from typing import Annotated
 from datetime import datetime, timezone
 import logging
@@ -25,7 +25,7 @@ async def get_current_user(token: Annotated[str, Depends(oauth2_scheme)]):
     Used as a dependency in protected routes.
     """
     from jose import jwt, JWTError
-    from backend.core.config import settings
+    from core.config import settings
     try:
         payload = jwt.decode(token, settings.SECRET_KEY, algorithms=[settings.ALGORITHM])
         email: str = payload.get("sub")

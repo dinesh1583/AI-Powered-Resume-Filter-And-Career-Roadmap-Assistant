@@ -4,7 +4,7 @@ FIX: Added module-level caching — CSV loaded ONCE instead of per-request.
 FIX: Added proper logging and error handling.
 """
 from fastapi import APIRouter, Depends, Query, HTTPException
-from backend.routers.auth import get_current_user
+from routers.auth import get_current_user
 import csv
 import os
 import logging

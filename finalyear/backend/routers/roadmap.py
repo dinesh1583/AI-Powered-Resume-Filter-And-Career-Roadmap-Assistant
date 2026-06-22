@@ -4,9 +4,9 @@ FIX: Added null checks for database on all routes.
 FIX: Added proper error handling and logging.
 """
 from fastapi import APIRouter, Depends, HTTPException, Query
-from backend.routers.auth import get_current_user
-from backend.models.roadmap_model import Roadmap, StepUpdate
-from backend.database import get_database
+from routers.auth import get_current_user
+from models.roadmap_model import Roadmap, StepUpdate
+from database import get_database
 import logging
 
 logger = logging.getLogger("ROADMAP_ROUTER")
@@ -17,9 +17,9 @@ router = APIRouter()
 @router.post("/generate")
 async def generate_roadmap(target_career: str = Query(...), current_user=Depends(get_current_user)):
     """Generate a personalized career roadmap for the target career."""
-    from backend.services.roadmap_service import generate_roadmap_steps
-    from backend.services.career_service import match_careers
-    from backend.services.recommendation_service import get_recommendations
+    from services.roadmap_service import generate_roadmap_steps
+    from services.career_service import match_careers
+    from services.recommendation_service import get_recommendations
 
     db = get_database()
     if db is None:

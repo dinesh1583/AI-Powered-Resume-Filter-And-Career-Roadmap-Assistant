@@ -16,7 +16,7 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, os.path.dirname(PROJECT_ROOT))
 
-from backend.services.nlp_service import extract_skills_from_text, get_skill_categories
+from services.nlp_service import extract_skills_from_text, get_skill_categories
 
 
 class TestSkillExtraction:
@@ -117,7 +117,7 @@ class TestSecurityModule:
 
     def test_password_hash_and_verify(self):
         """Hashing and verification should work correctly."""
-        from backend.core.security import get_password_hash, verify_password
+        from core.security import get_password_hash, verify_password
 
         password = "MySecureP@ss123"
         hashed = get_password_hash(password)
@@ -127,9 +127,9 @@ class TestSecurityModule:
 
     def test_jwt_token_creation(self):
         """JWT token should be created and decodable."""
-        from backend.core.security import create_access_token
+        from core.security import create_access_token
         from jose import jwt
-        from backend.core.config import settings
+        from core.config import settings
 
         token = create_access_token(subject="test@example.com")
         assert isinstance(token, str)

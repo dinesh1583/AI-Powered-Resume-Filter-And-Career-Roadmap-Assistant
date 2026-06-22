@@ -4,8 +4,8 @@ Salary Predictor Router — Endpoints for salary prediction and comparison.
 from fastapi import APIRouter, Depends
 from pydantic import BaseModel, Field
 from typing import List, Optional
-from backend.routers.auth import get_current_user
-from backend.services.salary_service import (
+from routers.auth import get_current_user
+from services.salary_service import (
     predict_salary, get_career_salary_comparison,
     CAREER_SALARY_BASE, LOCATION_MULTIPLIERS, COMPANY_TIER_MULTIPLIERS
 )

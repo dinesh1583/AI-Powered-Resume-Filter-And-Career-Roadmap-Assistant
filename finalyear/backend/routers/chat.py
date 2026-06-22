@@ -4,12 +4,12 @@ AI Mentor Chat Router — Endpoints for the AI career chatbot.
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel
 from typing import Optional, Dict
-from backend.routers.auth import get_current_user
-from backend.services.chat_service import (
+from routers.auth import get_current_user
+from services.chat_service import (
     get_chat_response, save_chat_message,
     get_chat_history, clear_chat_history
 )
-from backend.database import get_database
+from database import get_database
 import logging
 
 logger = logging.getLogger("CHAT_ROUTER")
