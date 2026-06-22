@@ -3,8 +3,9 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
-from backend.database import connect_to_mongo, close_mongo_connection
-from backend.routers import (
+
+from database import connect_to_mongo, close_mongo_connection
+from routers import (
     auth,
     user,
     resume,
@@ -19,8 +20,6 @@ from backend.routers import (
 )
 
 import logging
-import webbrowser
-import threading
 import os
 
 # =========================
@@ -38,15 +37,7 @@ logger = logging.getLogger("MAIN")
 # BASE DIRECTORY
 # =========================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
 STATIC_DIR = os.path.join(BASE_DIR, "static")
-
-# =========================
-# AUTO OPEN BROWSER
-# =========================
-def open_browser():
-    webbrowser.open("http://127.0.0.1:8000")
-
 
 # =========================
 # LIFESPAN
@@ -58,12 +49,9 @@ async def lifespan(app: FastAPI):
 
     connect_to_mongo()
 
-    # Auto open browser
-    threading.Timer(2, open_browser).start()
-
     # NLP preload
     try:
-        from backend.services.nlp_service import init_nlp
+        from services.nlp_service import init_nlp
         init_nlp()
         logger.info("✅ NLP service initialized")
     except Exception as e:
@@ -71,7 +59,7 @@ async def lifespan(app: FastAPI):
 
     # Career preload
     try:
-        from backend.services.career_service import init_career_data
+        from services.career_service import init_career_data
         init_career_data()
         logger.info("✅ Career data cached")
     except Exception as e:
@@ -127,13 +115,19 @@ app.include_router(creator.router, prefix="/creator", tags=["Creator"])
 @app.get("/health")
 async def health_check():
 
-    from backend.database import get_database
+    from database import get_database
 
     db = get_database()
     db_status = "connected" if db is not None else "disconnected"
 
     models_dir = os.path.join(BASE_DIR, "ml", "trained_models")
-    ml_models = "loaded" if os.path.exists(os.path.join(models_dir, "tfidf_vectorizer.pkl")) else "not_found"
+    ml_models = (
+        "loaded"
+        if os.path.exists(
+            os.path.join(models_dir, "tfidf_vectorizer.pkl")
+        )
+        else "not_found"
+    )
 
     return {
         "status": "healthy",
@@ -159,21 +153,28 @@ if os.path.exists(STATIC_DIR):
             name="assets"
         )
 
-    # Main frontend route
     @app.get("/")
     async def serve_frontend():
-        return FileResponse(os.path.join(STATIC_DIR, "index.html"))
+        return FileResponse(
+            os.path.join(STATIC_DIR, "index.html")
+        )
 
-    # React/Vite route handling — must be last
     @app.get("/{full_path:path}")
     async def serve_react_app(full_path: str):
 
-        file_path = os.path.join(STATIC_DIR, full_path)
+        file_path = os.path.join(
+            STATIC_DIR,
+            full_path
+        )
 
         if os.path.exists(file_path) and os.path.isfile(file_path):
             return FileResponse(file_path)
 
-        return FileResponse(os.path.join(STATIC_DIR, "index.html"))
+        return FileResponse(
+            os.path.join(STATIC_DIR, "index.html")
+        )
 
 else:
-    logger.warning(f"⚠️ Static folder NOT found: {STATIC_DIR}")
+    logger.warning(
+        f"⚠️ Static folder NOT found: {STATIC_DIR}"
+    )
