@@ -1,0 +1,158 @@
+course_id,skill_name,course_title,course_url,course_type,platform,difficulty,rating
+,Python,Complete Python Bootcamp: From Zero to Hero,https://www.udemy.com/course/complete-python-bootcamp/,Course,Udemy,Beginner,4.6
+,Python,Python for Everybody Specialization,https://www.coursera.org/specializations/python,Course,Coursera,Beginner,4.8
+,Python,Automate the Boring Stuff with Python,https://automatetheboringstuff.com/,Free Course,Online,Beginner,4.7
+,JavaScript,The Complete JavaScript Course 2024,https://www.udemy.com/course/the-complete-javascript-course/,Course,Udemy,Beginner,4.7
+,JavaScript,JavaScript.info - The Modern JavaScript Tutorial,https://javascript.info/,Free Course,Online,Beginner,4.9
+,JavaScript,Eloquent JavaScript (Free Book),https://eloquentjavascript.net/,Free Course,Online,Intermediate,4.6
+,TypeScript,Understanding TypeScript,https://www.udemy.com/course/understanding-typescript/,Course,Udemy,Intermediate,4.7
+,TypeScript,TypeScript Handbook,https://www.typescriptlang.org/docs/handbook/,Free Course,Online,Intermediate,4.8
+,Java,Java Programming Masterclass,https://www.udemy.com/course/java-the-complete-java-developer-course/,Course,Udemy,Beginner,4.6
+,Java,Java MOOC by University of Helsinki,https://java-programming.mooc.fi/,Free Course,Online,Beginner,4.8
+,React,React - The Complete Guide,https://www.udemy.com/course/react-the-complete-guide-incl-redux/,Course,Udemy,Intermediate,4.7
+,React,Epic React by Kent C. Dodds,https://epicreact.dev/,Course,EpicReact,Intermediate,4.9
+,React,Full React Course 2024 - freeCodeCamp,https://www.youtube.com/watch?v=bMknfKXIFA8,YouTube,YouTube,Beginner,4.7
+,Node.js,Node.js - The Complete Guide,https://www.udemy.com/course/nodejs-the-complete-guide/,Course,Udemy,Intermediate,4.7
+,Node.js,Node.js Crash Course - Traversy Media,https://www.youtube.com/watch?v=fBNz5xF-Kx4,YouTube,YouTube,Beginner,4.8
+,Express,Express.js Full Course - freeCodeCamp,https://www.youtube.com/watch?v=Oe421EPjeBE,YouTube,YouTube,Intermediate,4.6
+,MongoDB,MongoDB University - Free Courses,https://university.mongodb.com/,Free Course,MongoDB,Intermediate,4.8
+,MongoDB,MongoDB Crash Course - Traversy Media,https://www.youtube.com/watch?v=-56x56UppqQ,YouTube,YouTube,Beginner,4.7
+,Angular,Angular - The Complete Guide,https://www.udemy.com/course/the-complete-guide-to-angular-2/,Course,Udemy,Intermediate,4.6
+,Vue.js,Vue - The Complete Guide,https://www.udemy.com/course/vuejs-2-the-complete-guide/,Course,Udemy,Intermediate,4.7
+,Next.js,Next.js & React - The Complete Guide,https://www.udemy.com/course/nextjs-react-the-complete-guide/,Course,Udemy,Intermediate,4.7
+,Machine Learning,Machine Learning Specialization - Andrew Ng,https://www.coursera.org/specializations/machine-learning-introduction,Course,Coursera,Intermediate,4.9
+,Machine Learning,Machine Learning A-Z,https://www.udemy.com/course/machinelearning/,Course,Udemy,Intermediate,4.5
+,Machine Learning,Machine Learning Crash Course by Google,https://developers.google.com/machine-learning/crash-course,Free Course,Google,Beginner,4.7
+,Deep Learning,Deep Learning Specialization - Andrew Ng,https://www.coursera.org/specializations/deep-learning,Course,Coursera,Advanced,4.9
+,Deep Learning,Practical Deep Learning - fast.ai,https://course.fast.ai/,Free Course,fast.ai,Intermediate,4.8
+,TensorFlow,TensorFlow Developer Certificate Course,https://www.coursera.org/professional-certificates/tensorflow-in-practice,Course,Coursera,Intermediate,4.7
+,TensorFlow,TensorFlow in 10 Minutes - Tech With Tim,https://www.youtube.com/watch?v=6g4O5UOH304,YouTube,YouTube,Beginner,4.5
+,PyTorch,PyTorch for Deep Learning - freeCodeCamp,https://www.youtube.com/watch?v=V_xro1bcAuA,YouTube,YouTube,Intermediate,4.8
+,PyTorch,Learn PyTorch for Deep Learning,https://www.learnpytorch.io/,Free Course,Online,Intermediate,4.7
+,Scikit-Learn,Scikit-Learn Official Tutorial,https://scikit-learn.org/stable/tutorial/,Free Course,Online,Intermediate,4.6
+,Pandas,Pandas Tutorial - Corey Schafer,https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS,YouTube,YouTube,Beginner,4.8
+,NumPy,NumPy Tutorial for Beginners - freeCodeCamp,https://www.youtube.com/watch?v=QUT1VHiLmmI,YouTube,YouTube,Beginner,4.7
+,Data Analysis,Google Data Analytics Professional Certificate,https://www.coursera.org/professional-certificates/google-data-analytics,Course,Coursera,Beginner,4.8
+,Data Visualization,Data Visualization with Python - Coursera,https://www.coursera.org/learn/python-for-data-visualization,Course,Coursera,Intermediate,4.6
+,Tableau,Tableau A-Z: Hands-On Training,https://www.udemy.com/course/tableau10/,Course,Udemy,Beginner,4.6
+,Power BI,Microsoft Power BI Desktop for Business Intelligence,https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/,Course,Udemy,Beginner,4.6
+,SQL,The Complete SQL Bootcamp,https://www.udemy.com/course/the-complete-sql-bootcamp/,Course,Udemy,Beginner,4.7
+,SQL,SQL Tutorial - Full Database Course - freeCodeCamp,https://www.youtube.com/watch?v=HXV3zeQKqGY,YouTube,YouTube,Beginner,4.8
+,PostgreSQL,PostgreSQL Tutorial - Full Course - freeCodeCamp,https://www.youtube.com/watch?v=qw--VYLpxG4,YouTube,YouTube,Intermediate,4.7
+,AWS,AWS Certified Solutions Architect Associate,https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/,Course,Udemy,Intermediate,4.7
+,AWS,AWS Cloud Practitioner Essentials,https://www.coursera.org/learn/aws-cloud-practitioner-essentials,Course,Coursera,Beginner,4.6
+,Azure,Microsoft Azure Fundamentals AZ-900,https://www.udemy.com/course/az900-azure/,Course,Udemy,Beginner,4.7
+,GCP,Google Cloud Platform Fundamentals,https://www.coursera.org/learn/gcp-fundamentals,Course,Coursera,Beginner,4.6
+,Docker,Docker Mastery: with Kubernetes & Swarm,https://www.udemy.com/course/docker-mastery/,Course,Udemy,Intermediate,4.7
+,Docker,Docker Crash Course - TechWorld with Nana,https://www.youtube.com/watch?v=pg19Z8LL06w,YouTube,YouTube,Beginner,4.8
+,Kubernetes,Kubernetes for the Absolute Beginners,https://www.udemy.com/course/learn-kubernetes/,Course,Udemy,Intermediate,4.7
+,Kubernetes,Kubernetes Tutorial - TechWorld with Nana,https://www.youtube.com/watch?v=X48VuDVv0do,YouTube,YouTube,Intermediate,4.9
+,Terraform,Terraform Course - Automate AWS Infrastructure,https://www.youtube.com/watch?v=SLB_c_ayRMo,YouTube,YouTube,Intermediate,4.7
+,CI/CD,CI/CD Pipeline Tutorial - TechWorld with Nana,https://www.youtube.com/watch?v=scEDHsr3APg,YouTube,YouTube,Intermediate,4.6
+,Jenkins,Jenkins Full Course - Simplilearn,https://www.youtube.com/watch?v=FX322RVNGj4,YouTube,YouTube,Intermediate,4.5
+,Git,Git & GitHub Crash Course - Traversy Media,https://www.youtube.com/watch?v=SWYqp7iY_Tc,YouTube,YouTube,Beginner,4.8
+,Git,Git Complete: The Definitive Guide,https://www.udemy.com/course/git-complete/,Course,Udemy,Beginner,4.6
+,Linux,Linux for Beginners - Jason Cannon,https://www.udemy.com/course/linux-for-beginners/,Course,Udemy,Beginner,4.5
+,Linux,Linux Full Course - freeCodeCamp,https://www.youtube.com/watch?v=sWbUDq4S6Y8,YouTube,YouTube,Beginner,4.7
+,Figma,Figma UI UX Design Tutorial - freeCodeCamp,https://www.youtube.com/watch?v=jwCmIBJ8Jtc,YouTube,YouTube,Beginner,4.8
+,Figma,Figma UI UX Design Essentials,https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/,Course,Udemy,Beginner,4.6
+,UI/UX Design,Google UX Design Professional Certificate,https://www.coursera.org/professional-certificates/google-ux-design,Course,Coursera,Beginner,4.8
+,Cybersecurity,Google Cybersecurity Professional Certificate,https://www.coursera.org/professional-certificates/google-cybersecurity,Course,Coursera,Beginner,4.8
+,Cybersecurity,The Complete Cyber Security Course,https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/,Course,Udemy,Beginner,4.6
+,Ethical Hacking,Learn Ethical Hacking From Scratch,https://www.udemy.com/course/learn-ethical-hacking-from-scratch/,Course,Udemy,Intermediate,4.6
+,Network Security,CompTIA Security+ Full Course,https://www.youtube.com/watch?v=9Hd8QJmZQUc,YouTube,YouTube,Intermediate,4.7
+,FastAPI,FastAPI Full Course - freeCodeCamp,https://www.youtube.com/watch?v=0sOvCWFmrtA,YouTube,YouTube,Intermediate,4.8
+,FastAPI,FastAPI - The Complete Course,https://www.udemy.com/course/fastapi-the-complete-course/,Course,Udemy,Intermediate,4.7
+,Django,Python Django - The Practical Guide,https://www.udemy.com/course/python-django-the-practical-guide/,Course,Udemy,Intermediate,4.7
+,Flask,Flask for Beginners - freeCodeCamp,https://www.youtube.com/watch?v=Z1RJmh_OqeA,YouTube,YouTube,Beginner,4.6
+,Tailwind CSS,Tailwind CSS From Scratch,https://www.udemy.com/course/tailwind-css-from-scratch/,Course,Udemy,Beginner,4.7
+,Redux,Redux Tutorial - Net Ninja,https://www.youtube.com/watch?v=CVpUuw9XSjY,YouTube,YouTube,Intermediate,4.6
+,GraphQL,GraphQL Course for Beginners - freeCodeCamp,https://www.youtube.com/watch?v=ed8SzALpx1Q,YouTube,YouTube,Intermediate,4.7
+,REST APIs,REST API Tutorial - Programming with Mosh,https://www.youtube.com/watch?v=pKd0Rpw7O48,YouTube,YouTube,Beginner,4.7
+,System Design,System Design Interview Course - ByteByteGo,https://bytebytego.com/,Course,ByteByteGo,Advanced,4.9
+,Microservices,Microservices Architecture Course - freeCodeCamp,https://www.youtube.com/watch?v=lTAcCNbJ7KE,YouTube,YouTube,Advanced,4.6
+,Flutter,Flutter & Dart - The Complete Guide,https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/,Course,Udemy,Intermediate,4.7
+,React Native,React Native - The Practical Guide,https://www.udemy.com/course/react-native-the-practical-guide/,Course,Udemy,Intermediate,4.6
+,Blockchain,Blockchain A-Z: Build a Blockchain,https://www.udemy.com/course/build-your-blockchain-az/,Course,Udemy,Intermediate,4.5
+,Solidity,Solidity & Ethereum - Blockchain Developer Bootcamp,https://www.udemy.com/course/blockchain-developer/,Course,Udemy,Intermediate,4.6
+,Spark,Apache Spark with Python - Big Data,https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/,Course,Udemy,Advanced,4.5
+,Kafka,Apache Kafka for Beginners,https://www.udemy.com/course/apache-kafka/,Course,Udemy,Advanced,4.7
+,Airflow,Apache Airflow Tutorial - Marc Lamberti,https://www.youtube.com/watch?v=AHMm1wfGuHE,YouTube,YouTube,Advanced,4.6
+,Big Data,Big Data Specialization - Coursera,https://www.coursera.org/specializations/big-data,Course,Coursera,Advanced,4.5
+,Natural Language Processing,NLP Specialization - deeplearning.ai,https://www.coursera.org/specializations/natural-language-processing,Course,Coursera,Advanced,4.8
+,Computer Vision,Computer Vision Basics,https://www.coursera.org/learn/computer-vision-basics,Course,Coursera,Advanced,4.6
+,Hugging Face,Hugging Face NLP Course,https://huggingface.co/course/chapter1,Free Course,Hugging Face,Intermediate,4.9
+,LangChain,LangChain Crash Course - Tech With Tim,https://www.youtube.com/watch?v=LbT1yp6quS8,YouTube,YouTube,Intermediate,4.7
+,Generative AI,Generative AI with LLMs - Coursera,https://www.coursera.org/learn/generative-ai-with-llms,Course,Coursera,Advanced,4.8
+,OpenCV,OpenCV Python Course - freeCodeCamp,https://www.youtube.com/watch?v=oXlwWbU8l2o,YouTube,YouTube,Intermediate,4.7
+,Statistics,Statistics and Probability - Khan Academy,https://www.khanacademy.org/math/statistics-probability,Free Course,Khan Academy,Beginner,4.8
+,Agile,Agile with Atlassian Jira,https://www.coursera.org/learn/agile-atlassian-jira,Course,Coursera,Beginner,4.6
+,C++,Beginning C++ Programming,https://www.udemy.com/course/beginning-c-plus-plus-programming/,Course,Udemy,Intermediate,4.6
+,Go,Go: The Complete Developer Guide,https://www.udemy.com/course/go-the-complete-developers-guide/,Course,Udemy,Intermediate,4.6
+,Rust,The Rust Programming Language (Book),https://doc.rust-lang.org/book/,Free Course,Online,Advanced,4.9
+,Redis,Redis Crash Course - Traversy Media,https://www.youtube.com/watch?v=jgpVdJB2sKQ,YouTube,YouTube,Intermediate,4.6
+,Nginx,Nginx Crash Course - Traversy Media,https://www.youtube.com/watch?v=7VAI73roXaY,YouTube,YouTube,Intermediate,4.6
+,Responsive Design,Responsive Web Design - freeCodeCamp,https://www.freecodecamp.org/learn/2022/responsive-web-design/,Free Course,freeCodeCamp,Beginner,4.7
+,Design Systems,Design Systems with Figma,https://www.youtube.com/watch?v=Dtjhm6cAILk,YouTube,YouTube,Intermediate,4.5
+,OWASP,OWASP Top 10 - Practical Course,https://www.youtube.com/watch?v=rWHvp7rUka8,YouTube,YouTube,Intermediate,4.6
+,Penetration Testing,Practical Ethical Hacking - TCM Security,https://www.udemy.com/course/practical-ethical-hacking/,Course,Udemy,Advanced,4.7
+,Snowflake,Snowflake - The Complete Masterclass,https://www.udemy.com/course/snowflake-masterclass/,Course,Udemy,Intermediate,4.5
+,dbt,dbt Fundamentals,https://courses.getdbt.com/courses/fundamentals,Free Course,dbt,Intermediate,4.7
+,Excel,Excel Skills for Business - Coursera,https://www.coursera.org/specializations/excel,Course,Coursera,Beginner,4.8
+,Selenium,Selenium WebDriver with Python,https://www.udemy.com/course/selenium-python/,Course,Udemy,Intermediate,4.5
+,Unit Testing,Python Testing with pytest,https://www.youtube.com/watch?v=YbpKMIUjvK8,YouTube,YouTube,Intermediate,4.6
+,Webpack,Webpack 5 Tutorial - Traversy Media,https://www.youtube.com/watch?v=IZGNcSuwBZs,YouTube,YouTube,Intermediate,4.5
+,SASS,SASS Tutorial for Beginners,https://www.youtube.com/watch?v=_a5j7KoflTs,YouTube,YouTube,Beginner,4.6
+,Bootstrap,Bootstrap 5 Tutorial - The Net Ninja,https://www.youtube.com/watch?v=O_9u1P5YjVc,YouTube,YouTube,Beginner,4.7
+,Communication,Communication Skills for Engineers,https://www.coursera.org/learn/communication-skills-engineers,Course,Coursera,Beginner,4.5
+,Problem Solving,Data Structures & Algorithms - freeCodeCamp,https://www.youtube.com/watch?v=8hly31xKli0,YouTube,YouTube,Intermediate,4.8
+,Leadership,Leadership Skills - Coursera,https://www.coursera.org/specializations/leadership-skills,Course,Coursera,Intermediate,4.5
+,Project Management,Google Project Management Certificate,https://www.coursera.org/professional-certificates/google-project-management,Course,Coursera,Beginner,4.8
+,Technical Writing,Technical Writing - Google,https://developers.google.com/tech-writing,Free Course,Google,Beginner,4.7
+,Svelte,Svelte Tutorial for Beginners - Net Ninja,https://www.youtube.com/watch?v=zojEMeQGGHs&list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO,YouTube,YouTube,Intermediate,4.6
+,Spring Boot,Spring Boot Tutorial - Amigoscode,https://www.youtube.com/watch?v=9SGDpanrc8U,YouTube,YouTube,Intermediate,4.7
+,Firebase,Firebase 9 Tutorial - The Net Ninja,https://www.youtube.com/watch?v=9zdvmgGsww0,YouTube,YouTube,Beginner,4.7
+,Supabase,Supabase Crash Course - Traversy Media,https://www.youtube.com/watch?v=7uKQBl9uZ00,YouTube,YouTube,Beginner,4.6
+,IoT,Introduction to IoT - Cisco,https://www.netacad.com/courses/iot/introduction-iot,Free Course,Cisco,Beginner,4.5
+,Kotlin,Kotlin for Android Developers,https://www.udemy.com/course/kotlin-android/,Course,Udemy,Intermediate,4.6
+,Swift,iOS & Swift Bootcamp - Angela Yu,https://www.udemy.com/course/ios-13-app-development-bootcamp/,Course,Udemy,Intermediate,4.8
+,Android Development,Android Development for Beginners - freeCodeCamp,https://www.youtube.com/watch?v=fis26HvvDII,YouTube,YouTube,Beginner,4.7
+,iOS Development,Stanford CS193p - SwiftUI,https://cs193p.sites.stanford.edu/,Free Course,Stanford,Intermediate,4.9
+,A/B Testing,A/B Testing by Google - Udacity,https://www.udacity.com/course/ab-testing--ud257,Free Course,Udacity,Intermediate,4.6
+,Feature Engineering,Feature Engineering for ML - Coursera,https://www.coursera.org/learn/feature-engineering,Course,Coursera,Advanced,4.5
+,Data Engineering,Data Engineering Zoomcamp,https://github.com/DataTalksClub/data-engineering-zoomcamp,Free Course,DataTalks,Intermediate,4.8
+,ETL,ETL Testing Tutorial - Guru99,https://www.youtube.com/watch?v=OW5OgsLpDCQ,YouTube,YouTube,Intermediate,4.4
+,Elasticsearch,Elasticsearch Tutorial - TechWorld with Nana,https://www.youtube.com/watch?v=gS_nHTWZEJ8,YouTube,YouTube,Advanced,4.5
+,Hadoop,Hadoop Tutorial - Edureka,https://www.youtube.com/watch?v=1vbXmCrkT3Y,YouTube,YouTube,Advanced,4.4
+crs_0126,C#,C# Fundamentals,https://www.pluralsight.com/courses/csharp-fundamentals-dev,Course,Pluralsight,Beginner,4.6
+crs_0127,C#,C# 101 - Microsoft,https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/,Free Course,Microsoft,Beginner,4.8
+crs_0128,Go,Go by Example,https://gobyexample.com/,Free Course,Online,Beginner,4.7
+crs_0129,Rust,Rustlings - Small Exercises,https://github.com/rust-lang/rustlings,Free Course,GitHub,Beginner,4.8
+crs_0130,Ruby,The Odin Project - Ruby,https://www.theodinproject.com/paths/full-stack-ruby-on-rails,Free Course,The Odin Project,Beginner,4.8
+crs_0131,PHP,PHP The Right Way,https://phptherightway.com/,Free Course,Online,Beginner,4.6
+crs_0132,Swift,Swift Playgrounds - Apple,https://developer.apple.com/swift-playgrounds/,Free Course,Apple,Beginner,4.7
+crs_0133,Kotlin,Kotlin Bootcamp - Google,https://developer.android.com/courses/kotlin-bootcamp/overview,Free Course,Google,Beginner,4.7
+crs_0134,Dart,Dart Language Tour,https://dart.dev/guides/language/language-tour,Free Course,Online,Beginner,4.6
+crs_0135,R,R for Data Science (Book),https://r4ds.had.co.nz/,Free Course,Online,Beginner,4.8
+crs_0136,HTML,MDN HTML Guide,https://developer.mozilla.org/en-US/docs/Learn/HTML,Free Course,MDN,Beginner,4.9
+crs_0137,CSS,MDN CSS Guide,https://developer.mozilla.org/en-US/docs/Learn/CSS,Free Course,MDN,Beginner,4.9
+crs_0138,MySQL,MySQL Tutorial - W3Schools,https://www.w3schools.com/mysql/,Free Course,W3Schools,Beginner,4.5
+crs_0139,Ruby on Rails,Rails Tutorial by Michael Hartl,https://www.railstutorial.org/,Free Course,Online,Intermediate,4.8
+crs_0140,Laravel,Laravel Bootcamp,https://bootcamp.laravel.com/,Free Course,Laravel,Beginner,4.7
+crs_0141,ASP.NET,ASP.NET Core Fundamentals,https://learn.microsoft.com/en-us/aspnet/core/,Free Course,Microsoft,Intermediate,4.7
+crs_0142,Docker,Docker Getting Started,https://docs.docker.com/get-started/,Free Course,Docker,Beginner,4.7
+crs_0143,Kubernetes,Kubernetes Basics - Official,https://kubernetes.io/docs/tutorials/kubernetes-basics/,Free Course,Kubernetes,Intermediate,4.8
+crs_0144,Ansible,Ansible for the Absolute Beginner,https://www.udemy.com/course/learn-ansible/,Course,Udemy,Beginner,4.6
+crs_0145,GitHub Actions,GitHub Actions Documentation,https://docs.github.com/en/actions,Free Course,GitHub,Intermediate,4.7
+crs_0146,Next.js,Next.js Learn,https://nextjs.org/learn,Free Course,Vercel,Beginner,4.9
+crs_0147,Svelte,Svelte Tutorial - Official,https://svelte.dev/tutorial,Free Course,Online,Beginner,4.8
+crs_0148,Vue.js,Vue.js Official Tutorial,https://vuejs.org/tutorial/,Free Course,Online,Beginner,4.8
+crs_0149,Angular,Angular Official Tutorial,https://angular.io/tutorial,Free Course,Google,Intermediate,4.7
+crs_0150,Scrum,Scrum Guide,https://scrumguides.org/,Free Course,Online,Beginner,4.6
+crs_0151,JWT,JWT.io Introduction,https://jwt.io/introduction,Free Course,Online,Beginner,4.5
+crs_0152,OAuth,OAuth 2.0 Simplified,https://www.oauth.com/,Free Course,Online,Intermediate,4.6
+crs_0153,GraphQL,GraphQL Official Learn,https://graphql.org/learn/,Free Course,Online,Intermediate,4.7
+crs_0154,Terraform,Terraform Learn - HashiCorp,https://learn.hashicorp.com/terraform,Free Course,HashiCorp,Intermediate,4.7
+crs_0155,Redis,Redis University,https://university.redis.com/,Free Course,Redis,Intermediate,4.6
+crs_0156,Prometheus,Prometheus Documentation,https://prometheus.io/docs/introduction/overview/,Free Course,Online,Intermediate,4.5
+crs_0157,Grafana,Grafana Fundamentals,https://grafana.com/tutorials/grafana-fundamentals/,Free Course,Grafana,Beginner,4.6

@@ -1,0 +1,55 @@
+{
+  "trained_at": "2026-04-28T14:05:07.533644+00:00",
+  "python_version": "3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)]",
+  "sklearn_version": "1.7.2",
+  "numpy_version": "2.2.6",
+  "dataset": {
+    "skills_csv": "C:\\Users\\Dell\\OneDrive\\Desktop\\finalyear\\backend\\ml\\..\\dataset\\skills.csv",
+    "num_skills": 358,
+    "categories": [
+      "Cloud",
+      "Programming",
+      "Backend",
+      "IoT",
+      "Web Development",
+      "Database",
+      "Frontend",
+      "Emerging Tech",
+      "Security",
+      "AI & ML",
+      "Tools & Practices",
+      "Data Engineering",
+      "Data Science",
+      "Cloud & DevOps",
+      "DevOps",
+      "Architecture",
+      "Tools",
+      "Soft Skills",
+      "Design",
+      "Mobile"
+    ]
+  },
+  "model": {
+    "type": "TfidfVectorizer",
+    "analyzer": "char_wb",
+    "ngram_range": [
+      2,
+      4
+    ],
+    "max_features": 10000,
+    "sublinear_tf": true,
+    "vocabulary_size": 4838,
+    "vector_shape": [
+      358,
+      4838
+    ],
+    "sparse_density": 0.020865
+  },
+  "validation_accuracy": 100.0,
+  "output_files": {
+    "tfidf_vectorizer": "tfidf_vectorizer.pkl (158.4 KB)",
+    "skill_vectors": "skill_vectors.pkl (425.2 KB)",
+    "skill_metadata": "skill_metadata.pkl (32.0 KB)"
+  },
+  "total_size_kb": 615.7
+}

@@ -1,0 +1,74 @@
+career_id,career_title,description,avg_salary,demand_level,growth_rate
+c1,Full-Stack Web Developer,"Build complete web applications from frontend to backend, handling databases, APIs, and user interfaces.","₹6,00,000 - ₹18,00,000",High,22%
+c2,Data Scientist,"Extract insights from complex datasets using statistical methods, machine learning, and data visualization.","₹8,00,000 - ₹25,00,000",Very High,35%
+c3,Backend Engineer,"Design and build scalable server-side applications, APIs, and database architectures.","₹7,00,000 - ₹20,00,000",High,20%
+c4,Frontend Engineer,"Create engaging, responsive, and accessible user interfaces using modern JavaScript frameworks.","₹5,50,000 - ₹16,00,000",High,18%
+c5,DevOps Engineer,"Automate deployment pipelines, manage cloud infrastructure, and ensure system reliability.","₹8,00,000 - ₹22,00,000",Very High,25%
+c6,Machine Learning Engineer,"Design, build, train and deploy ML models into production at scale.","₹10,00,000 - ₹30,00,000",Very High,40%
+c7,Cloud Architect,"Design scalable, secure, and cost-effective cloud infrastructure architectures.","₹12,00,000 - ₹35,00,000",Very High,30%
+c8,Cybersecurity Analyst,"Protect systems and networks from security threats, perform vulnerability assessments.","₹6,00,000 - ₹20,00,000",Very High,33%
+c9,Data Engineer,"Build and maintain data pipelines, warehouses, and systems for large-scale data processing.","₹8,00,000 - ₹24,00,000",Very High,28%
+c10,UI/UX Designer,"Design intuitive, visually appealing, and user-centered digital experiences.","₹4,50,000 - ₹15,00,000",High,15%
+c11,Mobile App Developer,Build native and cross-platform mobile applications for iOS and Android.,"₹6,00,000 - ₹18,00,000",High,20%
+c12,AI/NLP Engineer,"Build natural language processing systems, chatbots, and language understanding models.","₹10,00,000 - ₹32,00,000",Very High,45%
+c13,Blockchain Developer,"Develop decentralized applications, smart contracts, and Web3 solutions.","₹8,00,000 - ₹25,00,000",Medium,18%
+c14,Game Developer,"Create interactive games using game engines, graphics programming, and physics simulation.","₹4,00,000 - ₹15,00,000",Medium,12%
+c15,Site Reliability Engineer,"Ensure system uptime, performance, and reliability through automation and monitoring.","₹10,00,000 - ₹28,00,000",High,28%
+c16,Data Analyst,"Analyze business data to provide actionable insights using SQL, Excel, and visualization tools.","₹4,00,000 - ₹12,00,000",High,22%
+c17,Product Manager,"Lead product strategy, roadmap planning, and cross-functional team coordination.","₹10,00,000 - ₹30,00,000",High,15%
+c18,Solutions Architect,Design end-to-end technical solutions aligned with business requirements.,"₹14,00,000 - ₹35,00,000",High,20%
+c19,QA/Test Automation Engineer,Design and implement automated testing frameworks to ensure software quality.,"₹5,00,000 - ₹14,00,000",Medium,15%
+c20,Technical Writer,"Create clear technical documentation, API guides, and developer-facing content.","₹4,00,000 - ₹12,00,000",Medium,10%
+c21,IoT Developer,"Build connected device systems, embedded software, and IoT platforms.","₹5,00,000 - ₹16,00,000",Medium,20%
+c22,Platform Engineer,"Build internal developer platforms, tooling, and infrastructure abstractions.","₹10,00,000 - ₹28,00,000",High,30%
+c23,Generative AI Engineer,"Build applications using LLMs, prompt engineering, and AI-powered content generation.","₹12,00,000 - ₹40,00,000",Very High,50%
+c24,Computer Vision Engineer,Develop image and video analysis systems using deep learning and OpenCV.,"₹8,00,000 - ₹28,00,000",High,35%
+c25,Full-Stack AI Developer,Combine full-stack web development with AI/ML integration for intelligent applications.,"₹8,00,000 - ₹26,00,000",Very High,38%
+car_026,Junior Frontend Developer,Entry-level frontend role building responsive web interfaces with HTML/CSS/JavaScript.,"₹3,00,000 - ₹6,00,000",Medium,18%
+car_027,Junior Backend Developer,Entry-level backend role designing APIs and server-side logic.,"₹3,50,000 - ₹7,00,000",Medium,20%
+car_028,Junior Full Stack Developer,Entry-level full-stack role handling both client and server development.,"₹4,00,000 - ₹8,00,000",High,22%
+car_029,Junior Data Scientist,Entry-level data science role applying ML models and statistical analysis.,"₹4,50,000 - ₹9,00,000",Medium,25%
+car_030,Junior DevOps Engineer,Entry-level DevOps role managing CI/CD pipelines and cloud deployments.,"₹4,00,000 - ₹8,00,000",High,22%
+car_031,Junior Cloud Architect,Entry-level cloud role designing basic cloud infrastructure solutions.,"₹5,00,000 - ₹10,00,000",Very High,23%
+car_032,Junior Product Manager,Entry-level product management role coordinating features and stakeholders.,"₹5,00,000 - ₹10,00,000",High,15%
+car_033,Junior UI/UX Designer,Entry-level design role creating wireframes and user-centered interfaces.,"₹3,00,000 - ₹6,00,000",High,15%
+car_034,Junior Mobile Developer,Entry-level mobile development role building Android/iOS applications.,"₹3,50,000 - ₹7,00,000",Medium,18%
+car_035,Junior QA Engineer,Entry-level QA role writing test cases and performing manual/automated testing.,"₹3,00,000 - ₹6,00,000",Medium,15%
+car_036,Junior Security Analyst,Entry-level cybersecurity role monitoring threats and vulnerabilities.,"₹3,50,000 - ₹7,00,000",Very High,25%
+car_037,Junior Database Administrator,Entry-level DBA role managing database performance and backups.,"₹3,50,000 - ₹7,00,000",High,12%
+car_038,Senior Frontend Developer,Senior frontend role leading UI architecture and component design.,"₹12,00,000 - ₹22,00,000",High,18%
+car_039,Senior Backend Developer,Senior backend role architecting scalable server-side systems.,"₹14,00,000 - ₹25,00,000",Medium,20%
+car_040,Senior Full Stack Developer,Senior full-stack role leading end-to-end application development.,"₹15,00,000 - ₹28,00,000",Very High,22%
+car_041,Senior Data Scientist,Senior data science role leading ML model development and research.,"₹18,00,000 - ₹35,00,000",Very High,30%
+car_042,Senior DevOps Engineer,Senior DevOps role designing infrastructure automation strategies.,"₹16,00,000 - ₹28,00,000",High,25%
+car_043,Senior Cloud Architect,Senior cloud role designing enterprise-grade cloud architectures.,"₹20,00,000 - ₹40,00,000",High,28%
+car_044,Senior Product Manager,Senior PM role driving product vision and go-to-market strategy.,"₹18,00,000 - ₹35,00,000",Medium,15%
+car_045,Senior UI/UX Designer,Senior design role leading design systems and user research.,"₹12,00,000 - ₹24,00,000",Very High,18%
+car_046,Senior Mobile Developer,Senior mobile role architecting cross-platform mobile solutions.,"₹14,00,000 - ₹26,00,000",Medium,20%
+car_047,Senior QA Engineer,Senior QA role building test automation frameworks and quality processes.,"₹10,00,000 - ₹20,00,000",Very High,18%
+car_048,Senior Security Analyst,Senior security role leading security audits and incident response.,"₹14,00,000 - ₹28,00,000",High,28%
+car_049,Senior Database Administrator,Senior DBA role optimizing database architecture and high availability.,"₹12,00,000 - ₹24,00,000",Very High,15%
+car_050,Lead Frontend Developer,Lead frontend role mentoring teams and setting frontend standards.,"₹20,00,000 - ₹35,00,000",Very High,18%
+car_051,Lead Backend Developer,Lead backend role overseeing microservices architecture and team output.,"₹22,00,000 - ₹38,00,000",High,20%
+car_052,Lead Full Stack Developer,Lead full-stack role driving technical decisions across the stack.,"₹22,00,000 - ₹40,00,000",Very High,22%
+car_053,Lead Data Scientist,Lead data science role directing ML strategy and team research.,"₹25,00,000 - ₹45,00,000",High,25%
+car_054,Lead DevOps Engineer,Lead DevOps role defining infrastructure strategy and SRE practices.,"₹22,00,000 - ₹38,00,000",Medium,22%
+car_055,Lead Cloud Architect,Lead cloud role setting cloud strategy for the organization.,"₹28,00,000 - ₹50,00,000",High,25%
+car_056,Lead Product Manager,Lead PM role managing product portfolio and team of PMs.,"₹25,00,000 - ₹45,00,000",Medium,15%
+car_057,Lead UI/UX Designer,Lead design role managing design teams and establishing design vision.,"₹18,00,000 - ₹32,00,000",Very High,18%
+car_058,Lead Mobile Developer,Lead mobile role driving mobile platform strategy and innovation.,"₹20,00,000 - ₹35,00,000",Medium,20%
+car_059,Lead QA Engineer,Lead QA role defining quality standards and test strategies.,"₹16,00,000 - ₹30,00,000",Medium,18%
+car_060,Lead Security Analyst,Lead security role establishing security policies and compliance.,"₹20,00,000 - ₹38,00,000",High,26%
+car_061,Lead Database Administrator,Lead DBA role managing database infrastructure across multiple systems.,"₹18,00,000 - ₹32,00,000",Very High,15%
+car_062,Principal Frontend Developer,Principal frontend role setting technology direction for frontend.,"₹28,00,000 - ₹50,00,000",High,18%
+car_063,Principal Backend Developer,Principal backend role driving architectural decisions at scale.,"₹30,00,000 - ₹55,00,000",High,20%
+car_064,Principal Full Stack Developer,Principal full-stack role owning system architecture and standards.,"₹30,00,000 - ₹55,00,000",Medium,22%
+car_065,Principal Data Scientist,Principal data science role leading research and ML innovation.,"₹35,00,000 - ₹60,00,000",Medium,25%
+car_066,Principal DevOps Engineer,Principal DevOps role defining organization-wide infrastructure vision.,"₹30,00,000 - ₹50,00,000",High,25%
+car_067,Principal Cloud Architect,Principal cloud role leading multi-cloud strategy and governance.,"₹35,00,000 - ₹65,00,000",Medium,25%
+car_068,Principal Product Manager,Principal PM role shaping product direction at organizational level.,"₹35,00,000 - ₹60,00,000",High,15%
+car_069,Principal UI/UX Designer,Principal design role driving design culture across the organization.,"₹25,00,000 - ₹45,00,000",High,18%
+car_070,Principal Mobile Developer,Principal mobile role owning mobile technology strategy.,"₹28,00,000 - ₹50,00,000",Very High,20%
+car_071,Principal QA Engineer,Principal QA role defining organization-wide quality frameworks.,"₹22,00,000 - ₹40,00,000",High,18%
+car_072,Principal Security Analyst,Principal security role driving enterprise security architecture.,"₹28,00,000 - ₹50,00,000",High,25%
+car_073,Principal Database Administrator,Principal DBA role overseeing all database systems and strategy.,"₹25,00,000 - ₹45,00,000",Medium,15%

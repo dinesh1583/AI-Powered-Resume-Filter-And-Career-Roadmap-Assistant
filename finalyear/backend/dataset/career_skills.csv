@@ -1,0 +1,1003 @@
+career_id,skill_name,importance
+c1,HTML,Essential
+c1,CSS,Essential
+c1,JavaScript,Essential
+c1,React,Essential
+c1,Node.js,Essential
+c1,MongoDB,Essential
+c1,REST APIs,Essential
+c1,Git,Essential
+c1,TypeScript,Important
+c1,Tailwind CSS,Important
+c1,Express,Important
+c1,PostgreSQL,Recommended
+c1,Docker,Recommended
+c1,Redux,Recommended
+c2,Python,Essential
+c2,SQL,Essential
+c2,Pandas,Essential
+c2,NumPy,Essential
+c2,Scikit-Learn,Essential
+c2,Data Visualization,Essential
+c2,Machine Learning,Essential
+c2,Data Analysis,Essential
+c2,Statistics,Essential
+c2,Matplotlib,Important
+c2,Seaborn,Important
+c2,Deep Learning,Recommended
+c2,TensorFlow,Recommended
+c2,Feature Engineering,Recommended
+c3,Python,Essential
+c3,Java,Essential
+c3,PostgreSQL,Essential
+c3,MongoDB,Essential
+c3,REST APIs,Essential
+c3,Docker,Essential
+c3,Microservices,Essential
+c3,System Design,Essential
+c3,FastAPI,Important
+c3,Go,Important
+c3,Redis,Important
+c3,Linux,Important
+c3,Message Queues,Recommended
+c3,Kafka,Recommended
+c4,HTML,Essential
+c4,CSS,Essential
+c4,JavaScript,Essential
+c4,React,Essential
+c4,TypeScript,Essential
+c4,Tailwind CSS,Important
+c4,Redux,Important
+c4,Figma,Important
+c4,Responsive Design,Important
+c4,Vue.js,Recommended
+c4,Angular,Recommended
+c4,SASS,Recommended
+c4,Webpack,Recommended
+c5,Linux,Essential
+c5,AWS,Essential
+c5,Docker,Essential
+c5,Kubernetes,Essential
+c5,CI/CD,Essential
+c5,Terraform,Essential
+c5,Jenkins,Important
+c5,Ansible,Important
+c5,Cloud Computing,Important
+c5,GitHub Actions,Important
+c5,Nginx,Recommended
+c5,Python,Recommended
+c6,Python,Essential
+c6,Machine Learning,Essential
+c6,Deep Learning,Essential
+c6,TensorFlow,Essential
+c6,PyTorch,Essential
+c6,Scikit-Learn,Essential
+c6,Docker,Important
+c6,AWS,Important
+c6,FastAPI,Important
+c6,NumPy,Important
+c6,Pandas,Important
+c6,System Design,Recommended
+c6,Kubernetes,Recommended
+c7,AWS,Essential
+c7,Azure,Essential
+c7,GCP,Important
+c7,Cloud Computing,Essential
+c7,System Design,Essential
+c7,Microservices,Essential
+c7,Serverless,Essential
+c7,Docker,Essential
+c7,Kubernetes,Essential
+c7,Terraform,Important
+c7,Linux,Important
+c7,Load Balancing,Important
+c7,Caching,Recommended
+c8,Cybersecurity,Essential
+c8,Network Security,Essential
+c8,Linux,Essential
+c8,Ethical Hacking,Essential
+c8,Cryptography,Essential
+c8,Python,Important
+c8,OWASP,Important
+c8,Penetration Testing,Important
+c8,Security Auditing,Recommended
+c8,SOC Analysis,Recommended
+c9,Python,Essential
+c9,SQL,Essential
+c9,Big Data,Essential
+c9,Spark,Essential
+c9,Kafka,Essential
+c9,Airflow,Essential
+c9,Data Engineering,Essential
+c9,AWS,Important
+c9,Docker,Important
+c9,ETL,Important
+c9,Data Warehousing,Important
+c9,Hadoop,Important
+c9,Snowflake,Recommended
+c9,dbt,Recommended
+c10,Figma,Essential
+c10,UI/UX Design,Essential
+c10,HTML,Essential
+c10,CSS,Essential
+c10,Wireframing,Essential
+c10,Prototyping,Essential
+c10,User Research,Important
+c10,Design Systems,Important
+c10,JavaScript,Important
+c10,Responsive Design,Important
+c10,Adobe XD,Recommended
+c11,Dart,Essential
+c11,Flutter,Essential
+c11,React Native,Essential
+c11,JavaScript,Essential
+c11,REST APIs,Important
+c11,Firebase,Important
+c11,Git,Important
+c11,Android Development,Important
+c11,iOS Development,Important
+c11,TypeScript,Recommended
+c11,SwiftUI,Recommended
+c11,Jetpack Compose,Recommended
+c12,Python,Essential
+c12,Natural Language Processing,Essential
+c12,Deep Learning,Essential
+c12,TensorFlow,Essential
+c12,PyTorch,Essential
+c12,Hugging Face,Essential
+c12,Machine Learning,Essential
+c12,LangChain,Important
+c12,Generative AI,Important
+c12,Docker,Important
+c12,FastAPI,Recommended
+c12,AWS,Recommended
+c13,Solidity,Essential
+c13,Blockchain,Essential
+c13,Web3,Essential
+c13,JavaScript,Essential
+c13,React,Important
+c13,Node.js,Important
+c13,Cryptography,Important
+c13,Git,Important
+c13,REST APIs,Recommended
+c14,C++,Essential
+c14,Python,Important
+c14,JavaScript,Important
+c14,Git,Important
+c14,Problem Solving,Essential
+c14,Design Patterns,Important
+c15,Linux,Essential
+c15,AWS,Essential
+c15,Docker,Essential
+c15,Kubernetes,Essential
+c15,Python,Essential
+c15,CI/CD,Essential
+c15,Terraform,Important
+c15,System Design,Important
+c15,Nginx,Important
+c15,Load Balancing,Important
+c15,Caching,Recommended
+c15,Kafka,Recommended
+c16,SQL,Essential
+c16,Excel,Essential
+c16,Python,Important
+c16,Tableau,Essential
+c16,Power BI,Important
+c16,Data Analysis,Essential
+c16,Data Visualization,Essential
+c16,Statistics,Important
+c16,Communication,Important
+c16,Pandas,Recommended
+c17,Agile,Essential
+c17,Scrum,Essential
+c17,Jira,Essential
+c17,Communication,Essential
+c17,Leadership,Essential
+c17,Project Management,Essential
+c17,Data Analysis,Important
+c17,SQL,Important
+c17,Figma,Important
+c17,A/B Testing,Recommended
+c17,Technical Writing,Recommended
+c18,AWS,Essential
+c18,Azure,Essential
+c18,System Design,Essential
+c18,Microservices,Essential
+c18,Cloud Computing,Essential
+c18,Docker,Essential
+c18,Kubernetes,Important
+c18,Serverless,Important
+c18,API Gateway,Important
+c18,Communication,Important
+c18,Technical Writing,Recommended
+c19,Python,Essential
+c19,JavaScript,Important
+c19,Unit Testing,Essential
+c19,Integration Testing,Essential
+c19,TDD,Essential
+c19,CI/CD,Important
+c19,Git,Important
+c19,Agile,Important
+c19,Postman,Recommended
+c20,Technical Writing,Essential
+c20,Communication,Essential
+c20,Git,Essential
+c20,HTML,Important
+c20,CSS,Important
+c20,Python,Important
+c20,REST APIs,Important
+c20,Markdown,Recommended
+c21,Python,Essential
+c21,IoT,Essential
+c21,C++,Essential
+c21,Linux,Essential
+c21,AWS,Important
+c21,MQTT,Important
+c21,Docker,Recommended
+c22,Python,Essential
+c22,Docker,Essential
+c22,Kubernetes,Essential
+c22,Terraform,Essential
+c22,CI/CD,Essential
+c22,Linux,Essential
+c22,AWS,Important
+c22,System Design,Important
+c22,Go,Important
+c22,GitHub Actions,Important
+c23,Python,Essential
+c23,Generative AI,Essential
+c23,LangChain,Essential
+c23,Hugging Face,Essential
+c23,Machine Learning,Essential
+c23,Deep Learning,Important
+c23,FastAPI,Important
+c23,React,Important
+c23,Docker,Important
+c23,Natural Language Processing,Important
+c23,REST APIs,Recommended
+c23,AWS,Recommended
+c24,Python,Essential
+c24,Computer Vision,Essential
+c24,Deep Learning,Essential
+c24,OpenCV,Essential
+c24,TensorFlow,Essential
+c24,PyTorch,Essential
+c24,NumPy,Important
+c24,Docker,Important
+c24,AWS,Recommended
+c24,Keras,Recommended
+c25,Python,Essential
+c25,JavaScript,Essential
+c25,React,Essential
+c25,Node.js,Essential
+c25,Machine Learning,Essential
+c25,FastAPI,Essential
+c25,MongoDB,Important
+c25,Docker,Important
+c25,TensorFlow,Important
+c25,REST APIs,Important
+c25,Git,Important
+c25,AWS,Recommended
+c25,Scikit-Learn,Recommended
+car_026,Adobe XD,Recommended
+car_026,ETL,Recommended
+car_026,RxJS,Important
+car_026,Streamlit,Essential
+car_026,Slack,Recommended
+car_026,Excel,Essential
+car_026,Scrum,Recommended
+car_026,Blockchain,Important
+car_027,OpenAPI,Recommended
+car_027,Mercurial,Recommended
+car_027,AWS CloudFront,Important
+car_027,Blender,Important
+car_027,SOC Analysis,Important
+car_027,Nuxt.js,Essential
+car_027,Kotlin,Recommended
+car_027,Render,Essential
+car_027,Auth0,Essential
+car_028,AutoCAD,Recommended
+car_028,macOS,Essential
+car_028,Pillow,Essential
+car_028,Next.js,Important
+car_028,Technical Writing,Important
+car_028,Slack,Essential
+car_029,Technical Writing,Important
+car_029,NATS,Essential
+car_029,NLTK,Recommended
+car_029,Event-Driven Architecture,Essential
+car_029,Load Balancing,Important
+car_030,Cryptography,Recommended
+car_030,Natural Language Processing,Essential
+car_030,Wireframing,Important
+car_030,Pandas,Recommended
+car_030,C#,Important
+car_030,ASP.NET,Recommended
+car_030,Dart,Recommended
+car_030,DynamoDB,Essential
+car_030,User Research,Recommended
+car_030,Supabase Auth,Important
+car_031,Flask,Important
+car_031,Eleventy,Important
+car_031,Cryptography,Important
+car_031,ASP.NET,Recommended
+car_031,Go,Recommended
+car_031,XGBoost,Recommended
+car_031,Big Data,Important
+car_032,Scala,Important
+car_032,Insomnia,Recommended
+car_032,Redis,Recommended
+car_032,Markdown,Important
+car_032,AWS ECS,Essential
+car_032,RapidMiner,Recommended
+car_032,WebRTC,Important
+car_032,Linear,Essential
+car_033,AWS SNS,Important
+car_033,OpenCV,Important
+car_033,Linear,Essential
+car_033,Asana,Essential
+car_033,VS Code,Essential
+car_033,Recoil,Recommended
+car_034,UI/UX Design,Recommended
+car_034,Scikit-Learn,Important
+car_034,Pillow,Essential
+car_034,SQLite,Recommended
+car_034,Unreal Engine,Important
+car_034,DynamoDB,Essential
+car_034,Memcached,Recommended
+car_034,REST APIs,Important
+car_034,Puppeteer,Recommended
+car_035,WebStorm,Essential
+car_035,Cybersecurity,Recommended
+car_035,Bash,Essential
+car_035,Blender,Recommended
+car_035,Windows,Recommended
+car_035,Maya,Essential
+car_036,Clerk,Recommended
+car_036,Machine Learning,Essential
+car_036,Azure Kubernetes Service,Essential
+car_036,Playwright,Important
+car_036,Cypress,Essential
+car_036,Parcel,Recommended
+car_036,GitHub,Essential
+car_036,Integration Testing,Essential
+car_036,Vim,Important
+car_037,System Design,Important
+car_037,ZeroMQ,Recommended
+car_037,Android Studio,Important
+car_037,Mapbox API,Important
+car_037,Asana,Recommended
+car_038,A/B Testing,Essential
+car_038,Heroku,Recommended
+car_038,Blockchain,Essential
+car_038,WebSocket,Recommended
+car_038,Hugo,Recommended
+car_038,Problem Solving,Recommended
+car_038,Puppeteer,Important
+car_038,dbt,Recommended
+car_039,Chef,Important
+car_039,Lint-staged,Important
+car_039,MeiliSearch,Essential
+car_039,LogRocket,Essential
+car_039,Braintree,Recommended
+car_039,SQLite,Essential
+car_039,Prophet,Recommended
+car_039,NATS,Essential
+car_039,Statistics,Recommended
+car_039,Android Studio,Important
+car_040,Data Analysis,Recommended
+car_040,Nuxt.js,Recommended
+car_040,Selenium,Important
+car_040,TypeORM,Important
+car_040,iOS Development,Essential
+car_040,Event-Driven Architecture,Recommended
+car_040,OpenCV,Recommended
+car_041,CSS,Important
+car_041,Unix,Essential
+car_041,ZeroMQ,Important
+car_041,MATLAB,Important
+car_041,AWS Lambda,Recommended
+car_041,Vim,Recommended
+car_041,LangChain,Recommended
+car_041,Sequelize,Important
+car_041,IntelliJ IDEA,Recommended
+car_041,Bash,Recommended
+car_042,GitHub,Recommended
+car_042,Scrum,Recommended
+car_042,WebSockets,Essential
+car_042,Svelte,Recommended
+car_042,GraphQL API,Essential
+car_042,Emacs,Essential
+car_043,Penetration Testing,Important
+car_043,AWS SQS,Recommended
+car_043,Chai,Important
+car_043,PHP,Important
+car_043,System Design,Recommended
+car_044,Linear,Essential
+car_044,AWS S3,Important
+car_044,IntelliJ IDEA,Essential
+car_044,AWS RDS,Essential
+car_044,RapidMiner,Recommended
+car_044,Railway,Essential
+car_044,dbt,Essential
+car_044,CSS,Essential
+car_044,API Design,Essential
+car_044,Zustand,Recommended
+car_045,Event-Driven Architecture,Essential
+car_045,Vite,Essential
+car_045,Bootstrap,Essential
+car_045,DigitalOcean Spaces,Important
+car_045,New Relic,Recommended
+car_045,Looker,Recommended
+car_045,AWS EKS,Recommended
+car_046,Machine Learning,Recommended
+car_046,Supabase Auth,Important
+car_046,Redux,Essential
+car_046,GCP Cloud Storage,Important
+car_046,Hugo,Important
+car_046,LangChain,Recommended
+car_047,Spring Boot,Important
+car_047,Clerk,Essential
+car_047,Highcharts,Essential
+car_047,Puppet,Important
+car_047,Twilio API,Essential
+car_047,ZBrush,Important
+car_047,Jotai,Essential
+car_047,Cypress,Important
+car_047,AWS CloudFront,Recommended
+car_048,Generative AI,Important
+car_048,Project Management,Essential
+car_048,AR/VR,Recommended
+car_048,Linux,Essential
+car_048,Highcharts,Recommended
+car_048,MeiliSearch,Essential
+car_049,tRPC,Essential
+car_049,OWASP,Recommended
+car_049,Swagger,Important
+car_049,Orange,Essential
+car_049,Framer,Essential
+car_049,Prototyping,Essential
+car_049,HTML,Important
+car_049,iOS Development,Important
+car_049,OpenCV,Important
+car_049,AWS IAM,Important
+car_050,Algolia,Essential
+car_050,OpenID Connect,Recommended
+car_050,Hugo,Essential
+car_050,Keras,Important
+car_050,Alteryx,Essential
+car_050,Data Engineering,Essential
+car_050,WebStorm,Essential
+car_050,GCP BigQuery,Recommended
+car_050,jQuery,Important
+car_051,Network Security,Important
+car_051,GCP Cloud Storage,Essential
+car_051,PowerShell,Essential
+car_051,Computer Vision,Essential
+car_051,Matplotlib,Essential
+car_051,Android Studio,Important
+car_051,PHP,Essential
+car_052,C++,Essential
+car_052,Grafana,Essential
+car_052,Docker,Essential
+car_052,API Design,Essential
+car_052,Android Studio,Recommended
+car_053,SASS,Recommended
+car_053,Webpack,Recommended
+car_053,NoSQL,Recommended
+car_053,NetBeans,Important
+car_053,AWS,Essential
+car_053,Keras,Essential
+car_053,LogRocket,Important
+car_053,Azure Functions,Important
+car_053,Design Systems,Recommended
+car_054,C#,Recommended
+car_054,Scikit-Learn,Recommended
+car_054,Security Auditing,Recommended
+car_054,Nginx,Important
+car_054,OWASP,Important
+car_054,Nmap,Recommended
+car_054,Chef,Essential
+car_054,Angular,Important
+car_054,iOS Development,Essential
+car_054,AWS ECS,Essential
+car_055,Fly.io,Essential
+car_055,Jest,Essential
+car_055,NLTK,Essential
+car_055,Mixpanel,Recommended
+car_055,Orange,Important
+car_055,Vercel,Recommended
+car_055,Android Studio,Recommended
+car_056,Nmap,Important
+car_056,Vim,Important
+car_056,React Native,Essential
+car_056,Cloud Computing,Essential
+car_056,macOS,Important
+car_056,Tableau,Essential
+car_056,Prettier,Essential
+car_056,Docker,Important
+car_056,Git,Essential
+car_057,PyCharm,Essential
+car_057,Plotly,Important
+car_057,Probability,Essential
+car_057,Katalon,Important
+car_057,Scrum,Essential
+car_057,Responsive Design,Recommended
+car_057,React Native,Important
+car_057,Azure Kubernetes Service,Important
+car_057,Feature Engineering,Important
+car_057,MobX,Recommended
+car_058,Firebase,Important
+car_058,Message Queues,Essential
+car_058,NoSQL,Essential
+car_058,MobX,Recommended
+car_058,Zsh,Recommended
+car_058,XGBoost,Important
+car_058,Presentation Skills,Essential
+car_058,Looker,Essential
+car_058,Data Modeling,Essential
+car_058,Grafana,Essential
+car_059,SVN,Essential
+car_059,Matplotlib,Essential
+car_059,OAuth,Essential
+car_059,Azure,Recommended
+car_059,Data Engineering,Important
+car_059,API Design,Recommended
+car_059,Express,Essential
+car_059,New Relic,Recommended
+car_059,Bootstrap,Essential
+car_059,AWS SNS,Essential
+car_060,Technical Writing,Recommended
+car_060,Alteryx,Recommended
+car_060,Laravel,Essential
+car_060,Security Auditing,Recommended
+car_060,Cypress,Recommended
+car_060,ZBrush,Important
+car_060,Fly.io,Important
+car_060,Godot,Important
+car_061,Socket.io,Recommended
+car_061,GraphQL API,Recommended
+car_061,Design Systems,Important
+car_061,jQuery,Important
+car_061,Jetpack Compose,Recommended
+car_061,Mixpanel,Recommended
+car_062,ZBrush,Essential
+car_062,Excel,Recommended
+car_062,C++,Recommended
+car_062,Windows,Essential
+car_062,NextAuth,Important
+car_062,Wireshark,Essential
+car_063,Hadoop,Recommended
+car_063,LangChain,Essential
+car_063,Nuxt.js,Essential
+car_063,PyCharm,Important
+car_063,Integration Testing,Important
+car_063,Looker,Essential
+car_064,Project Management,Essential
+car_064,SOC Analysis,Essential
+car_064,gRPC,Essential
+car_064,Mocha,Essential
+car_064,Stripe API,Important
+car_064,Rust,Recommended
+car_064,Zustand,Important
+car_064,AR/VR,Recommended
+car_064,Network Security,Important
+car_064,Communication,Important
+car_065,KNIME,Important
+car_065,Postman,Essential
+car_065,AWS Lambda,Important
+car_065,Miro,Recommended
+car_065,Lint-staged,Important
+car_065,Power BI,Essential
+car_065,Statistics,Recommended
+car_066,PyTorch,Important
+car_066,Domain-Driven Design,Important
+car_066,Visual Studio,Essential
+car_066,AWS DynamoDB,Important
+car_066,Hugging Face,Essential
+car_066,Technical Writing,Recommended
+car_066,OpenID Connect,Important
+car_066,Trello,Recommended
+car_066,Cypress,Recommended
+car_067,Auth0,Essential
+car_067,Amplitude,Recommended
+car_067,MongoDB,Recommended
+car_067,Design Systems,Important
+car_067,Redis,Recommended
+car_067,Looker,Recommended
+car_067,Mocha,Important
+car_067,RapidMiner,Important
+car_067,Playwright,Important
+car_067,Alteryx,Important
+car_068,PowerShell,Important
+car_068,Supabase Auth,Important
+car_068,Orange,Important
+car_068,AWS SQS,Recommended
+car_068,Vim,Recommended
+car_069,Gatsby,Essential
+car_069,Revit,Essential
+car_069,KNIME,Essential
+car_069,Responsive Design,Recommended
+car_069,Jetpack Compose,Essential
+car_069,PyTorch,Essential
+car_069,WebHooks,Essential
+car_069,Azure Kubernetes Service,Important
+car_069,Rust,Important
+car_070,Bootstrap,Essential
+car_070,Penetration Testing,Recommended
+car_070,QlikView,Important
+car_070,SolidWorks,Essential
+car_070,Scikit-Learn,Essential
+car_071,WebStorm,Recommended
+car_071,Prettier,Essential
+car_071,Data Engineering,Essential
+car_071,Firebase,Essential
+car_071,Stripe API,Essential
+car_071,WebRTC,Recommended
+car_071,SendGrid API,Recommended
+car_071,C#,Essential
+car_071,Hugging Face,Recommended
+car_072,Go,Recommended
+car_072,Plotly,Essential
+car_072,NumPy,Essential
+car_072,Java,Important
+car_072,Insomnia,Recommended
+car_072,Fly.io,Recommended
+car_072,Zustand,Essential
+car_072,Azure Blob Storage,Recommended
+car_073,C#,Recommended
+car_073,GraphQL API,Essential
+car_073,Go,Recommended
+car_073,Java,Essential
+car_073,Adobe XD,Essential
+car_073,MeiliSearch,Essential
+car_073,Maya,Recommended
+car_074,Tailwind CSS,Recommended
+car_074,Express,Important
+car_074,Grafana,Essential
+car_074,Pandas,Recommended
+car_074,Sentry,Important
+car_074,Ruby on Rails,Important
+car_074,Trello,Important
+car_074,Jenkins,Important
+car_074,Vite,Recommended
+car_074,C#,Essential
+car_075,SendGrid API,Essential
+car_075,Babel,Recommended
+car_075,Insomnia,Essential
+car_075,Web3,Recommended
+car_075,GraphQL API,Important
+car_075,Google Maps API,Recommended
+car_075,Prisma,Essential
+car_075,SOC Analysis,Recommended
+car_075,Kafka,Essential
+car_076,Recoil,Recommended
+car_076,Prettier,Recommended
+car_076,User Research,Recommended
+car_076,TypeScript,Essential
+car_076,Bash,Important
+car_076,React Native,Important
+car_076,Svelte,Essential
+car_076,Amplitude,Recommended
+car_076,Seaborn,Recommended
+car_077,Babel,Essential
+car_077,DigitalOcean Droplets,Important
+car_077,Datadog,Essential
+car_077,FastAPI,Essential
+car_077,Segment,Essential
+car_077,Alteryx,Essential
+car_077,SASS,Recommended
+car_078,Socket.io,Recommended
+car_078,Emacs,Essential
+car_078,Nginx,Essential
+car_078,Ethical Hacking,Recommended
+car_078,Segment,Essential
+car_078,Zeplin,Essential
+car_078,3ds Max,Essential
+car_078,Leadership,Important
+car_078,Spacy,Important
+car_079,Maya,Essential
+car_079,Remix,Important
+car_079,Rust,Recommended
+car_079,Spring Boot,Recommended
+car_079,Event-Driven Architecture,Recommended
+car_079,Feature Engineering,Important
+car_080,Unity,Important
+car_080,Looker,Important
+car_080,jQuery,Recommended
+car_080,GCP Compute Engine,Recommended
+car_080,SvelteKit,Essential
+car_081,AWS,Recommended
+car_081,Spring Boot,Essential
+car_081,OpenID Connect,Recommended
+car_081,Event-Driven Architecture,Essential
+car_081,Discord,Important
+car_081,Jetpack Compose,Important
+car_081,New Relic,Recommended
+car_082,JavaScript,Recommended
+car_082,Blender,Recommended
+car_082,C#,Recommended
+car_082,Hadoop,Important
+car_082,Unreal Engine,Recommended
+car_082,Remix,Essential
+car_082,Parcel,Recommended
+car_083,Spark,Recommended
+car_083,Clerk,Recommended
+car_083,Hugging Face,Essential
+car_083,Transformers,Important
+car_083,Data Visualization,Important
+car_083,Selenium,Recommended
+car_083,WebSockets,Important
+car_083,Serverless,Important
+car_083,AWS Lambda,Recommended
+car_083,Kubernetes,Important
+car_084,MeiliSearch,Important
+car_084,Data Visualization,Essential
+car_084,Responsive Design,Important
+car_084,AWS S3,Recommended
+car_084,REST API,Recommended
+car_084,Firebase,Recommended
+car_084,Jira,Important
+car_084,Asana,Essential
+car_084,Natural Language Processing,Recommended
+car_084,JWT,Important
+car_085,Ruby on Rails,Important
+car_085,Zoom,Essential
+car_085,Critical Thinking,Important
+car_085,Prettier,Essential
+car_085,AWS DynamoDB,Important
+car_085,Chart.js,Recommended
+car_085,Airflow,Essential
+car_085,Grafana,Important
+car_086,AutoCAD,Important
+car_086,Design Patterns,Essential
+car_086,GCP,Important
+car_086,Jekyll,Important
+car_086,GitHub,Important
+car_086,WebSockets,Recommended
+car_086,AWS CloudFront,Essential
+car_086,GraphQL,Important
+car_086,TypeORM,Essential
+car_087,Scala,Important
+car_087,Svelte,Recommended
+car_087,Hugo,Recommended
+car_087,TDD,Essential
+car_087,Keras,Important
+car_087,Event-Driven Architecture,Essential
+car_087,AWS SNS,Recommended
+car_087,System Design,Recommended
+car_087,SolidWorks,Important
+car_087,React,Recommended
+car_088,Sketch,Recommended
+car_088,SVN,Important
+car_088,Linux,Essential
+car_088,Clerk,Important
+car_088,Mercurial,Important
+car_089,TypeORM,Recommended
+car_089,Caching,Important
+car_089,ZBrush,Recommended
+car_089,Statistics,Essential
+car_089,Netlify,Recommended
+car_089,Swift,Recommended
+car_089,Insomnia,Important
+car_089,Time Management,Important
+car_089,SVN,Important
+car_090,Segment,Important
+car_090,ActiveMQ,Recommended
+car_090,Postman,Recommended
+car_090,Pandas,Recommended
+car_090,React,Recommended
+car_091,GCP Compute Engine,Important
+car_091,Machine Learning,Important
+car_091,Render,Important
+car_091,Amplitude,Recommended
+car_091,LangChain,Recommended
+car_091,Adobe XD,Important
+car_091,SAML,Important
+car_092,Firebase,Important
+car_092,Elasticsearch,Essential
+car_092,MongoDB,Recommended
+car_092,WebSockets,Recommended
+car_092,SvelteKit,Essential
+car_092,Node.js,Important
+car_092,Message Queues,Important
+car_093,Vite,Essential
+car_093,Spacy,Important
+car_093,Unity,Recommended
+car_093,Lint-staged,Essential
+car_093,Redux,Recommended
+car_094,NumPy,Essential
+car_094,Gatsby,Essential
+car_094,Airflow,Recommended
+car_094,Hugo,Recommended
+car_094,Natural Language Processing,Important
+car_094,Transformers,Important
+car_094,Hugging Face,Important
+car_094,Puppet,Important
+car_095,Zeplin,Recommended
+car_095,Natural Language Processing,Recommended
+car_095,Godot,Essential
+car_095,Fly.io,Recommended
+car_095,jQuery,Essential
+car_095,MQTT,Important
+car_095,Statsmodels,Recommended
+car_095,Django,Recommended
+car_095,GitHub,Important
+car_095,LightGBM,Recommended
+car_096,WebStorm,Recommended
+car_096,SendGrid API,Essential
+car_096,R,Essential
+car_096,Spring Boot,Essential
+car_096,API Design,Important
+car_097,Puppet,Recommended
+car_097,Gatsby,Essential
+car_097,Nuxt.js,Essential
+car_097,GCP,Recommended
+car_097,GCP Cloud Storage,Essential
+car_097,Network Security,Recommended
+car_098,Design Systems,Recommended
+car_098,gRPC,Recommended
+car_098,IntelliJ IDEA,Essential
+car_098,SQLite,Essential
+car_098,Tailwind CSS,Recommended
+car_098,Markdown,Essential
+car_099,AWS SQS,Important
+car_099,GCP Compute Engine,Essential
+car_099,Android Studio,Recommended
+car_099,Mixpanel,Recommended
+car_099,API Gateway,Essential
+car_099,Trello,Important
+car_099,Azure Blob Storage,Important
+car_099,Python,Recommended
+car_100,Parcel,Important
+car_100,Visual Studio,Essential
+car_100,Responsive Design,Recommended
+car_100,Transformers,Important
+car_100,Vue.js,Recommended
+car_100,Plotly,Important
+car_101,Katalon,Important
+car_101,AWS SNS,Essential
+car_101,Docker Compose,Recommended
+car_101,Neo4j,Essential
+car_101,Critical Thinking,Essential
+car_101,tRPC,Essential
+car_101,Jetpack Compose,Important
+car_102,Data Modeling,Important
+car_102,Python,Important
+car_102,dbt,Essential
+car_102,Statistics,Recommended
+car_102,Algolia,Important
+car_103,Cryptography,Essential
+car_103,TDD,Essential
+car_103,Emacs,Important
+car_103,Blender,Recommended
+car_103,Framer,Essential
+car_103,AWS Route 53,Important
+car_104,Flask,Recommended
+car_104,OpenID Connect,Recommended
+car_104,LogRocket,Important
+car_104,SOC Analysis,Important
+car_104,Power BI,Important
+car_105,Mapbox API,Recommended
+car_105,Keras,Recommended
+car_105,MobX,Recommended
+car_105,TypeORM,Essential
+car_105,Flutter,Recommended
+car_105,Bash,Recommended
+car_105,Data Modeling,Recommended
+car_105,Airflow,Important
+car_105,Azure SQL Database,Recommended
+car_105,Feature Engineering,Important
+car_106,R,Important
+car_106,Reinforcement Learning,Recommended
+car_106,RxJS,Important
+car_106,AWS Lambda,Recommended
+car_106,WebStorm,Essential
+car_106,Apollo,Essential
+car_106,Grafana,Essential
+car_107,Trello,Important
+car_107,Ansible,Essential
+car_107,NLTK,Essential
+car_107,Puppet,Recommended
+car_107,GCP Cloud SQL,Important
+car_107,Stripe API,Essential
+car_107,GraphQL API,Essential
+car_108,Big Data,Recommended
+car_108,Project Management,Essential
+car_108,Blockchain,Essential
+car_108,D3.js,Essential
+car_108,Azure,Recommended
+car_108,SVN,Recommended
+car_109,TDD,Important
+car_109,Spacy,Recommended
+car_109,AWS Route 53,Recommended
+car_109,Spark,Recommended
+car_109,ZeroMQ,Important
+car_109,Vim,Recommended
+car_109,Jenkins,Important
+car_109,Auth0,Essential
+car_109,Svelte,Recommended
+car_110,Web3,Essential
+car_110,GCP Compute Engine,Essential
+car_110,Linear,Essential
+car_110,Node.js,Essential
+car_110,Heroku,Important
+car_111,Big Data,Recommended
+car_111,Angular,Recommended
+car_111,Unreal Engine,Essential
+car_111,Spark,Recommended
+car_111,Jenkins,Recommended
+car_111,Generative AI,Recommended
+car_111,Firebase Auth,Recommended
+car_111,NoSQL,Recommended
+car_112,Data Warehousing,Important
+car_112,Kotlin,Essential
+car_112,Stata,Important
+car_112,RapidMiner,Essential
+car_112,Jira,Essential
+car_112,Elasticsearch,Important
+car_112,Netlify,Essential
+car_112,RxJS,Recommended
+car_113,Redux Toolkit,Important
+car_113,Xcode,Important
+car_113,Event-Driven Architecture,Essential
+car_113,TensorFlow,Important
+car_113,Stripe API,Recommended
+car_113,RapidMiner,Important
+car_113,Grafana,Important
+car_113,Responsive Design,Recommended
+car_114,Excel,Essential
+car_114,MATLAB,Essential
+car_114,Data Engineering,Recommended
+car_114,Neural Networks,Essential
+car_114,Bokeh,Important
+car_114,NumPy,Important
+car_115,LightGBM,Important
+car_115,CI/CD,Essential
+car_115,Go,Essential
+car_115,Natural Language Processing,Recommended
+car_115,PyTorch,Essential
+car_116,Mapbox API,Important
+car_116,Pillow,Essential
+car_116,Nginx,Essential
+car_116,Reinforcement Learning,Important
+car_116,Rollup,Important
+car_116,Cybersecurity,Essential
+car_117,ESLint,Essential
+car_117,Google Maps API,Recommended
+car_117,Gatsby,Important
+car_117,Bash,Recommended
+car_117,jQuery,Recommended
+car_117,DynamoDB,Recommended
+car_117,SOC Analysis,Important
+car_117,Lint-staged,Essential
+car_117,LangChain,Important
+car_117,NATS,Important
+car_118,Prisma,Recommended
+car_118,Adobe XD,Recommended
+car_118,Kotlin,Recommended
+car_118,Microsoft Teams,Recommended
+car_118,TensorFlow,Important
+car_118,REST APIs,Recommended
+car_118,Unit Testing,Essential
+car_118,AutoCAD,Important
+car_119,Figma,Important
+car_119,Airflow,Essential
+car_119,Esbuild,Important
+car_119,Redux Toolkit,Important
+car_119,Socket.io,Important
+car_119,WebSocket,Recommended
+car_120,Spring Boot,Important
+car_120,Markdown,Important
+car_120,Eleventy,Recommended
+car_120,Solidity,Recommended
+car_120,Appium,Important
+car_120,MobX,Essential
+car_121,Azure SQL Database,Essential
+car_121,Android Studio,Recommended
+car_121,Postman,Important
+car_121,Segment,Important
+car_121,ASP.NET,Important
+car_121,GCP Cloud SQL,Important
+car_121,Deep Learning,Important
+car_121,LogRocket,Essential

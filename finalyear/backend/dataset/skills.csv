@@ -1,0 +1,370 @@
+skill_name,category,difficulty
+Python,Programming,Beginner
+JavaScript,Programming,Beginner
+TypeScript,Programming,Intermediate
+Java,Programming,Intermediate
+C++,Programming,Intermediate
+C#,Programming,Intermediate
+Go,Programming,Intermediate
+Rust,Programming,Advanced
+Ruby,Programming,Intermediate
+PHP,Programming,Beginner
+Swift,Programming,Intermediate
+Kotlin,Programming,Intermediate
+Dart,Programming,Intermediate
+R,Programming,Intermediate
+Scala,Programming,Advanced
+HTML,Web Development,Beginner
+CSS,Web Development,Beginner
+React,Web Development,Intermediate
+Angular,Web Development,Intermediate
+Vue.js,Web Development,Intermediate
+Next.js,Web Development,Intermediate
+Svelte,Web Development,Intermediate
+Node.js,Web Development,Intermediate
+Express,Web Development,Intermediate
+Django,Web Development,Intermediate
+Flask,Web Development,Intermediate
+FastAPI,Web Development,Intermediate
+Spring Boot,Web Development,Advanced
+Ruby on Rails,Web Development,Intermediate
+ASP.NET,Web Development,Intermediate
+Laravel,Web Development,Intermediate
+Tailwind CSS,Web Development,Beginner
+Bootstrap,Web Development,Beginner
+SASS,Web Development,Beginner
+jQuery,Web Development,Beginner
+Redux,Web Development,Intermediate
+GraphQL,Web Development,Intermediate
+REST APIs,Web Development,Intermediate
+WebSocket,Web Development,Intermediate
+Webpack,Web Development,Intermediate
+MongoDB,Database,Intermediate
+PostgreSQL,Database,Intermediate
+MySQL,Database,Intermediate
+SQLite,Database,Beginner
+Redis,Database,Intermediate
+Cassandra,Database,Advanced
+DynamoDB,Database,Intermediate
+Firebase,Database,Beginner
+Supabase,Database,Beginner
+Neo4j,Database,Advanced
+SQL,Database,Beginner
+NoSQL,Database,Intermediate
+Elasticsearch,Database,Advanced
+Machine Learning,AI & ML,Intermediate
+Deep Learning,AI & ML,Advanced
+Natural Language Processing,AI & ML,Advanced
+Computer Vision,AI & ML,Advanced
+Reinforcement Learning,AI & ML,Advanced
+TensorFlow,AI & ML,Intermediate
+PyTorch,AI & ML,Intermediate
+Keras,AI & ML,Intermediate
+Scikit-Learn,AI & ML,Intermediate
+OpenCV,AI & ML,Intermediate
+Hugging Face,AI & ML,Advanced
+LangChain,AI & ML,Advanced
+Generative AI,AI & ML,Advanced
+Neural Networks,AI & ML,Advanced
+Data Analysis,Data Science,Beginner
+Data Visualization,Data Science,Intermediate
+Pandas,Data Science,Intermediate
+NumPy,Data Science,Intermediate
+Matplotlib,Data Science,Intermediate
+Seaborn,Data Science,Intermediate
+Tableau,Data Science,Intermediate
+Power BI,Data Science,Intermediate
+Excel,Data Science,Beginner
+Statistics,Data Science,Intermediate
+Probability,Data Science,Intermediate
+Feature Engineering,Data Science,Advanced
+A/B Testing,Data Science,Intermediate
+AWS,Cloud & DevOps,Intermediate
+Azure,Cloud & DevOps,Intermediate
+GCP,Cloud & DevOps,Intermediate
+Docker,Cloud & DevOps,Intermediate
+Kubernetes,Cloud & DevOps,Advanced
+Terraform,Cloud & DevOps,Advanced
+Ansible,Cloud & DevOps,Advanced
+Jenkins,Cloud & DevOps,Intermediate
+GitHub Actions,Cloud & DevOps,Intermediate
+CI/CD,Cloud & DevOps,Intermediate
+Linux,Cloud & DevOps,Intermediate
+Nginx,Cloud & DevOps,Intermediate
+Cloud Computing,Cloud & DevOps,Intermediate
+Serverless,Cloud & DevOps,Intermediate
+Microservices,Architecture,Advanced
+System Design,Architecture,Advanced
+Design Patterns,Architecture,Intermediate
+Event-Driven Architecture,Architecture,Advanced
+Domain-Driven Design,Architecture,Advanced
+API Gateway,Architecture,Intermediate
+Load Balancing,Architecture,Intermediate
+Caching,Architecture,Intermediate
+Message Queues,Architecture,Intermediate
+Git,Tools & Practices,Beginner
+GitHub,Tools & Practices,Beginner
+GitLab,Tools & Practices,Beginner
+Jira,Tools & Practices,Beginner
+Agile,Tools & Practices,Beginner
+Scrum,Tools & Practices,Beginner
+VS Code,Tools & Practices,Beginner
+Postman,Tools & Practices,Beginner
+Unit Testing,Tools & Practices,Intermediate
+Integration Testing,Tools & Practices,Intermediate
+TDD,Tools & Practices,Intermediate
+Figma,Design,Beginner
+Adobe XD,Design,Intermediate
+Sketch,Design,Intermediate
+UI/UX Design,Design,Intermediate
+Wireframing,Design,Beginner
+Prototyping,Design,Intermediate
+Design Systems,Design,Advanced
+User Research,Design,Intermediate
+Responsive Design,Design,Beginner
+Cybersecurity,Security,Intermediate
+Ethical Hacking,Security,Advanced
+Penetration Testing,Security,Advanced
+Network Security,Security,Intermediate
+Cryptography,Security,Advanced
+OWASP,Security,Intermediate
+Security Auditing,Security,Advanced
+SOC Analysis,Security,Advanced
+Blockchain,Emerging Tech,Advanced
+Web3,Emerging Tech,Advanced
+Solidity,Emerging Tech,Advanced
+IoT,Emerging Tech,Intermediate
+AR/VR,Emerging Tech,Advanced
+Flutter,Mobile,Intermediate
+React Native,Mobile,Intermediate
+Android Development,Mobile,Intermediate
+iOS Development,Mobile,Intermediate
+SwiftUI,Mobile,Intermediate
+Jetpack Compose,Mobile,Intermediate
+Big Data,Data Engineering,Advanced
+Hadoop,Data Engineering,Advanced
+Spark,Data Engineering,Advanced
+Kafka,Data Engineering,Advanced
+Airflow,Data Engineering,Advanced
+Data Engineering,Data Engineering,Intermediate
+ETL,Data Engineering,Intermediate
+Data Warehousing,Data Engineering,Intermediate
+dbt,Data Engineering,Intermediate
+Snowflake,Data Engineering,Intermediate
+Communication,Soft Skills,Beginner
+Problem Solving,Soft Skills,Beginner
+Critical Thinking,Soft Skills,Beginner
+Leadership,Soft Skills,Intermediate
+Project Management,Soft Skills,Intermediate
+Technical Writing,Soft Skills,Intermediate
+Presentation Skills,Soft Skills,Beginner
+Team Collaboration,Soft Skills,Beginner
+Time Management,Soft Skills,Beginner
+MQTT,IoT,Intermediate
+Markdown,Tools & Practices,Beginner
+Nmap,Security,Intermediate
+Wireshark,Security,Intermediate
+Prometheus,Cloud & DevOps,Intermediate
+Grafana,Cloud & DevOps,Intermediate
+Selenium,Tools & Practices,Intermediate
+Streamlit,Data Science,Beginner
+API Design,Architecture,Intermediate
+Data Modeling,Database,Intermediate
+WebRTC,Mobile,Beginner
+Socket.io,Backend,Advanced
+Apollo,Backend,Advanced
+Prisma,Tools,Intermediate
+TypeORM,Design,Intermediate
+Sequelize,Frontend,Beginner
+Mongoose,Design,Beginner
+Redux Toolkit,Database,Advanced
+Zustand,Tools,Beginner
+Jotai,Design,Intermediate
+Recoil,DevOps,Beginner
+MobX,Backend,Advanced
+RxJS,Database,Beginner
+Gatsby,Frontend,Advanced
+Nuxt.js,Database,Intermediate
+SvelteKit,Database,Beginner
+Remix,Tools,Advanced
+Astro,Cloud,Intermediate
+Eleventy,Frontend,Beginner
+Jekyll,Tools,Intermediate
+Hugo,Frontend,Intermediate
+Vite,DevOps,Beginner
+Rollup,Cloud,Beginner
+Parcel,Mobile,Advanced
+Esbuild,Backend,Intermediate
+Babel,Backend,Beginner
+ESLint,Database,Advanced
+Prettier,Data Science,Beginner
+Husky,Cloud,Intermediate
+Lint-staged,DevOps,Beginner
+Jest,Mobile,Intermediate
+Mocha,Frontend,Advanced
+Chai,Tools,Beginner
+Cypress,Tools,Advanced
+Playwright,Backend,Beginner
+Puppeteer,Design,Intermediate
+Appium,Mobile,Intermediate
+Detox,Data Science,Beginner
+Katalon,DevOps,Beginner
+Insomnia,Design,Intermediate
+Swagger,Data Science,Intermediate
+OpenAPI,Frontend,Intermediate
+GraphQL API,Frontend,Intermediate
+REST API,Design,Advanced
+gRPC,Database,Advanced
+tRPC,Design,Beginner
+WebSockets,DevOps,Intermediate
+WebHooks,Frontend,Advanced
+OAuth,Database,Intermediate
+JWT,Backend,Beginner
+SAML,Tools,Beginner
+OpenID Connect,Data Science,Beginner
+Auth0,Tools,Advanced
+Firebase Auth,Backend,Beginner
+AWS Cognito,Cloud,Beginner
+Supabase Auth,Design,Beginner
+Clerk,Design,Advanced
+NextAuth,Data Science,Beginner
+Stripe API,Data Science,Advanced
+PayPal API,Database,Advanced
+Braintree,Frontend,Intermediate
+Twilio API,Tools,Beginner
+SendGrid API,Data Science,Beginner
+Mailchimp API,Backend,Beginner
+Google Maps API,Tools,Advanced
+Mapbox API,DevOps,Advanced
+Algolia,Mobile,Intermediate
+MeiliSearch,Cloud,Advanced
+Memcached,Backend,Beginner
+RabbitMQ,Tools,Beginner
+ActiveMQ,Tools,Advanced
+ZeroMQ,Cloud,Intermediate
+NATS,Tools,Beginner
+AWS SQS,Design,Intermediate
+AWS SNS,Design,Intermediate
+AWS Lambda,Database,Beginner
+AWS S3,Database,Beginner
+AWS EC2,Design,Intermediate
+AWS RDS,Backend,Beginner
+AWS DynamoDB,Tools,Intermediate
+AWS CloudFront,DevOps,Beginner
+AWS Route 53,Frontend,Advanced
+AWS IAM,Frontend,Advanced
+AWS ECS,Tools,Advanced
+AWS EKS,Cloud,Beginner
+GCP Compute Engine,Backend,Intermediate
+GCP Cloud Storage,Cloud,Intermediate
+GCP Cloud SQL,Cloud,Advanced
+GCP BigQuery,Backend,Advanced
+GCP Kubernetes Engine,Database,Advanced
+Azure VMs,Data Science,Advanced
+Azure Blob Storage,DevOps,Intermediate
+Azure SQL Database,Tools,Beginner
+Azure Functions,Database,Beginner
+Azure Kubernetes Service,Mobile,Intermediate
+DigitalOcean Droplets,Frontend,Advanced
+DigitalOcean Spaces,DevOps,Advanced
+Heroku,Frontend,Intermediate
+Vercel,Cloud,Intermediate
+Netlify,Database,Beginner
+Render,Mobile,Intermediate
+Railway,DevOps,Beginner
+Fly.io,Cloud,Beginner
+Docker Compose,Cloud,Advanced
+Helm,Database,Advanced
+Chef,DevOps,Intermediate
+Puppet,DevOps,Beginner
+Datadog,Design,Beginner
+New Relic,Database,Intermediate
+Sentry,Tools,Advanced
+LogRocket,Backend,Advanced
+Mixpanel,Design,Advanced
+Amplitude,Cloud,Intermediate
+Google Analytics,Frontend,Beginner
+Segment,Data Science,Beginner
+InVision,Tools,Beginner
+Zeplin,Cloud,Advanced
+Framer,Database,Advanced
+Miro,Mobile,Intermediate
+Notion,Tools,Intermediate
+Trello,Design,Advanced
+Asana,Data Science,Intermediate
+Linear,Design,Advanced
+Slack,Database,Advanced
+Discord,Data Science,Advanced
+Zoom,DevOps,Advanced
+Microsoft Teams,Database,Advanced
+Bitbucket,Frontend,Advanced
+SVN,Database,Advanced
+Mercurial,Tools,Intermediate
+Unix,Cloud,Advanced
+Windows,Tools,Intermediate
+macOS,Data Science,Advanced
+Bash,Data Science,Beginner
+Zsh,DevOps,Intermediate
+PowerShell,Mobile,Intermediate
+Vim,Database,Beginner
+Emacs,Database,Advanced
+IntelliJ IDEA,Tools,Beginner
+WebStorm,DevOps,Intermediate
+PyCharm,DevOps,Intermediate
+Eclipse,Database,Beginner
+NetBeans,Database,Advanced
+Visual Studio,Tools,Advanced
+Xcode,Tools,Beginner
+Android Studio,Data Science,Advanced
+Unity,Data Science,Advanced
+Unreal Engine,Backend,Advanced
+Godot,Data Science,Advanced
+Blender,Cloud,Advanced
+Maya,Tools,Beginner
+3ds Max,Cloud,Intermediate
+ZBrush,Database,Beginner
+Substance Painter,Frontend,Beginner
+AutoCAD,Frontend,Intermediate
+SolidWorks,DevOps,Intermediate
+Revit,Tools,Beginner
+SketchUp,Frontend,Intermediate
+Fusion 360,Backend,Beginner
+MATLAB,Frontend,Advanced
+SAS,Database,Beginner
+SPSS,Backend,Beginner
+Stata,Mobile,Beginner
+Looker,Data Science,Beginner
+QlikView,Cloud,Beginner
+MicroStrategy,DevOps,Beginner
+Alteryx,Tools,Advanced
+KNIME,Data Science,Advanced
+RapidMiner,Design,Advanced
+Orange,Design,Beginner
+Weka,Data Science,Beginner
+XGBoost,Tools,Advanced
+LightGBM,Cloud,Beginner
+CatBoost,Backend,Beginner
+Prophet,Design,Intermediate
+Statsmodels,Data Science,Advanced
+NLTK,Tools,Beginner
+Spacy,Tools,Intermediate
+Gensim,Design,Advanced
+Transformers,Data Science,Beginner
+Pillow,Database,Intermediate
+Plotly,DevOps,Intermediate
+Bokeh,DevOps,Beginner
+Altair,Tools,Beginner
+D3.js,Design,Advanced
+Chart.js,Frontend,Beginner
+Highcharts,Backend,Beginner
+Prompt Engineering,AI,Intermediate
+Large Language Models,AI,Advanced
+RAG,AI,Advanced
+Video Editing,Creator,Intermediate
+Thumbnail Design,Creator,Beginner
+Storytelling,Soft Skills,Intermediate
+Bubble,No-Code,Intermediate
+Webflow,No-Code,Intermediate
+Zapier,Automation,Beginner
+Financial Modeling,Finance,Advanced
+Smart Contracts,Web3,Advanced

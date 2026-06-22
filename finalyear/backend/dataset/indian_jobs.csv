@@ -1,0 +1,501 @@
+company,title,skills_required,min_salary_lpa,max_salary_lpa,experience_level,location,work_mode,industry,growth_rate,future_demand_score,hiring_trend
+Krutrim,Cloud Engineer,"Python,Machine Learning",15,24,3-5 Years,Hyderabad,Hybrid,IT/Tech,+44%,79,High
+TCS,Data Analyst,"Python,Machine Learning",14,22,5-8 Years,Remote,Remote,IT/Tech,+34%,88,Stable
+Google India,Data Scientist,"Python,Machine Learning",13,22,3-5 Years,Mumbai,Hybrid,IT/Tech,+21%,78,Very High
+TCS,Frontend Developer,"Python,SQL,React",4,7,Entry Level,Mumbai,Onsite,IT/Tech,+48%,78,Stable
+Zerodha,UI/UX Designer,"Python,Machine Learning",10,13,Entry Level,Pune,Hybrid,IT/Tech,+44%,84,Stable
+Google India,Full Stack Developer,"Python,SQL,React",17,31,1-3 Years,Delhi/NCR,Onsite,IT/Tech,+46%,70,Explosive
+Wipro,Cloud Engineer,"Python,Machine Learning",3,6,Entry Level,Mumbai,Hybrid,IT/Tech,+29%,86,Stable
+Google India,Cybersecurity Analyst,"Python,Machine Learning",18,24,8+ Years,Hyderabad,Hybrid,IT/Tech,+36%,83,Very High
+Nykaa,AI Engineer,"Python,Machine Learning",12,24,1-3 Years,Hyderabad,Hybrid,IT/Tech,+28%,91,Explosive
+Zomato,Backend Developer,"Python,SQL,React",14,23,8+ Years,Delhi/NCR,Onsite,IT/Tech,+60%,86,Explosive
+Wipro,Blockchain Developer,"Python,SQL,React",6,15,1-3 Years,Mumbai,Onsite,IT/Tech,+45%,75,Very High
+Accenture,Frontend Developer,"Python,SQL,React",10,13,5-8 Years,Delhi/NCR,Onsite,IT/Tech,+52%,89,Stable
+CRED,ML Engineer,"Python,Machine Learning",8,16,1-3 Years,Delhi/NCR,Hybrid,IT/Tech,+45%,72,High
+Krutrim,Cybersecurity Analyst,"Python,Machine Learning",12,25,1-3 Years,Remote,Remote,IT/Tech,+16%,80,Very High
+Cognizant,Full Stack Developer,"Python,SQL,React",4,7,5-8 Years,Pune,Hybrid,IT/Tech,+56%,91,High
+PhonePe,Data Scientist,"Python,Machine Learning",3,8,1-3 Years,Hyderabad,Onsite,IT/Tech,+56%,76,High
+Microsoft India,Blockchain Developer,"Python,SQL,React",23,37,1-3 Years,Delhi/NCR,Hybrid,IT/Tech,+15%,94,Stable
+CRED,DevOps Engineer,"Python,Machine Learning",8,19,1-3 Years,Remote,Remote,IT/Tech,+32%,95,Stable
+Jio,Frontend Developer,"Python,SQL,React",5,14,5-8 Years,Mumbai,Hybrid,IT/Tech,+19%,87,Very High
+HCL,Data Scientist,"Python,Machine Learning",10,19,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+19%,93,High
+Meesho,Software Engineer,"Python,Machine Learning",3,6,Entry Level,Pune,Hybrid,IT/Tech,+34%,71,Stable
+Freshworks,ML Engineer,"Python,Machine Learning",11,20,3-5 Years,Chennai,Onsite,IT/Tech,+35%,93,Very High
+Accenture,Cybersecurity Analyst,"Python,Machine Learning",6,20,1-3 Years,Pune,Onsite,IT/Tech,+19%,91,Very High
+Zomato,Backend Developer,"Python,SQL,React",12,16,1-3 Years,Delhi/NCR,Hybrid,IT/Tech,+42%,83,Very High
+Razorpay,Product Manager,"Python,Machine Learning",19,24,3-5 Years,Pune,Hybrid,IT/Tech,+49%,81,High
+Deloitte,Cloud Engineer,"Python,Machine Learning",7,10,Entry Level,Pune,Onsite,IT/Tech,+44%,71,Stable
+Zomato,ML Engineer,"Python,Machine Learning",9,12,8+ Years,Remote,Remote,IT/Tech,+58%,85,Explosive
+Microsoft India,ML Engineer,"Python,Machine Learning",28,36,1-3 Years,Remote,Remote,IT/Tech,+31%,97,Explosive
+Meesho,Data Analyst,"Python,Machine Learning",10,13,Entry Level,Hyderabad,Onsite,IT/Tech,+34%,77,Explosive
+Capgemini,Data Scientist,"Python,Machine Learning",14,28,8+ Years,Hyderabad,Hybrid,IT/Tech,+52%,84,Stable
+HCL,Cloud Engineer,"Python,Machine Learning",7,10,Entry Level,Bangalore,Hybrid,IT/Tech,+32%,95,High
+CRED,Cybersecurity Analyst,"Python,Machine Learning",5,8,Entry Level,Pune,Hybrid,IT/Tech,+18%,82,Stable
+Accenture,AI Engineer,"Python,Machine Learning",15,26,3-5 Years,Delhi/NCR,Hybrid,IT/Tech,+27%,73,High
+Tech Mahindra,AI Engineer,"Python,Machine Learning",11,21,3-5 Years,Mumbai,Hybrid,IT/Tech,+24%,85,Stable
+Swiggy,Full Stack Developer,"Python,SQL,React",11,21,1-3 Years,Chennai,Hybrid,IT/Tech,+58%,93,High
+Zomato,DevOps Engineer,"Python,Machine Learning",9,17,8+ Years,Remote,Remote,IT/Tech,+52%,74,Explosive
+PhonePe,Full Stack Developer,"Python,SQL,React",12,24,8+ Years,Chennai,Hybrid,IT/Tech,+43%,77,Very High
+Razorpay,Cloud Engineer,"Python,Machine Learning",16,26,3-5 Years,Chennai,Onsite,IT/Tech,+19%,92,Very High
+Amazon India,Full Stack Developer,"Python,SQL,React",15,27,5-8 Years,Pune,Hybrid,IT/Tech,+57%,76,Explosive
+Amazon India,DevOps Engineer,"Python,Machine Learning",12,24,3-5 Years,Remote,Remote,IT/Tech,+34%,78,Very High
+Tech Mahindra,ML Engineer,"Python,Machine Learning",5,8,Entry Level,Chennai,Hybrid,IT/Tech,+37%,97,Stable
+Jio,Data Analyst,"Python,Machine Learning",14,17,8+ Years,Pune,Hybrid,IT/Tech,+34%,83,High
+Infosys,Product Manager,"Python,Machine Learning",8,22,5-8 Years,Hyderabad,Hybrid,IT/Tech,+21%,74,Very High
+Deloitte,Backend Developer,"Python,SQL,React",3,14,8+ Years,Bangalore,Hybrid,IT/Tech,+36%,82,High
+Razorpay,Frontend Developer,"Python,SQL,React",18,26,3-5 Years,Remote,Remote,IT/Tech,+28%,72,Very High
+Google India,Full Stack Developer,"Python,SQL,React",22,26,5-8 Years,Hyderabad,Onsite,IT/Tech,+23%,92,Explosive
+Freshworks,UI/UX Designer,"Python,Machine Learning",9,24,8+ Years,Mumbai,Hybrid,IT/Tech,+52%,88,Explosive
+Accenture,Cloud Engineer,"Python,Machine Learning",8,23,3-5 Years,Hyderabad,Hybrid,IT/Tech,+45%,73,Very High
+Zerodha,Full Stack Developer,"Python,SQL,React",23,35,1-3 Years,Remote,Remote,IT/Tech,+23%,80,Very High
+Microsoft India,Blockchain Developer,"Python,SQL,React",10,13,Entry Level,Pune,Onsite,IT/Tech,+59%,99,Explosive
+Tech Mahindra,Frontend Developer,"Python,SQL,React",8,13,3-5 Years,Remote,Remote,IT/Tech,+19%,88,High
+Tech Mahindra,Prompt Engineer,"Python,Machine Learning",5,11,3-5 Years,Chennai,Hybrid,IT/Tech,+29%,81,High
+Nykaa,Cybersecurity Analyst,"Python,Machine Learning",15,30,3-5 Years,Delhi/NCR,Hybrid,IT/Tech,+49%,72,Very High
+Zomato,UI/UX Designer,"Python,Machine Learning",15,25,3-5 Years,Remote,Remote,IT/Tech,+24%,83,Stable
+Sarvam AI,Prompt Engineer,"Python,Machine Learning",11,21,1-3 Years,Chennai,Hybrid,IT/Tech,+41%,93,Stable
+Infosys,AI Engineer,"Python,Machine Learning",13,17,1-3 Years,Bangalore,Hybrid,IT/Tech,+22%,92,Explosive
+Zoho,Backend Developer,"Python,SQL,React",9,14,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+50%,88,High
+TCS,Cloud Engineer,"Python,Machine Learning",4,8,3-5 Years,Bangalore,Onsite,IT/Tech,+38%,84,Explosive
+Wipro,Software Engineer,"Python,Machine Learning",13,16,8+ Years,Chennai,Hybrid,IT/Tech,+58%,80,Stable
+Meesho,Software Engineer,"Python,Machine Learning",7,13,8+ Years,Bangalore,Onsite,IT/Tech,+35%,92,High
+Jio,Backend Developer,"Python,SQL,React",8,15,1-3 Years,Chennai,Onsite,IT/Tech,+48%,80,High
+Cognizant,Cloud Engineer,"Python,Machine Learning",6,9,Entry Level,Chennai,Onsite,IT/Tech,+31%,73,Explosive
+PhonePe,Cloud Engineer,"Python,Machine Learning",12,20,5-8 Years,Hyderabad,Onsite,IT/Tech,+41%,88,Very High
+HCL,Frontend Developer,"Python,SQL,React",15,24,1-3 Years,Remote,Remote,IT/Tech,+36%,96,High
+Jio,Prompt Engineer,"Python,Machine Learning",7,10,Entry Level,Mumbai,Hybrid,IT/Tech,+23%,72,High
+PhonePe,Data Scientist,"Python,Machine Learning",5,15,5-8 Years,Remote,Remote,IT/Tech,+49%,93,Very High
+TCS,Data Analyst,"Python,Machine Learning",3,6,Entry Level,Mumbai,Onsite,IT/Tech,+36%,96,Very High
+Accenture,Frontend Developer,"Python,SQL,React",9,13,3-5 Years,Pune,Onsite,IT/Tech,+29%,84,Very High
+Freshworks,AI Engineer,"Python,Machine Learning",8,11,1-3 Years,Remote,Remote,IT/Tech,+26%,84,Explosive
+Swiggy,Cybersecurity Analyst,"Python,Machine Learning",7,12,8+ Years,Remote,Remote,IT/Tech,+58%,85,High
+Capgemini,Frontend Developer,"Python,SQL,React",12,18,5-8 Years,Pune,Hybrid,IT/Tech,+41%,86,High
+Wipro,Full Stack Developer,"Python,SQL,React",7,10,1-3 Years,Chennai,Hybrid,IT/Tech,+15%,78,High
+PhonePe,Blockchain Developer,"Python,SQL,React",15,30,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+51%,90,Stable
+Capgemini,UI/UX Designer,"Python,Machine Learning",9,16,8+ Years,Pune,Onsite,IT/Tech,+36%,74,Very High
+Google India,Cloud Engineer,"Python,Machine Learning",15,20,5-8 Years,Chennai,Hybrid,IT/Tech,+17%,95,Explosive
+Swiggy,Prompt Engineer,"Python,Machine Learning",8,22,8+ Years,Pune,Hybrid,IT/Tech,+57%,90,Explosive
+Tech Mahindra,AI Engineer,"Python,Machine Learning",14,19,8+ Years,Chennai,Hybrid,IT/Tech,+51%,97,High
+Meesho,UI/UX Designer,"Python,Machine Learning",8,17,8+ Years,Chennai,Onsite,IT/Tech,+34%,92,Explosive
+Google India,DevOps Engineer,"Python,Machine Learning",14,23,3-5 Years,Hyderabad,Onsite,IT/Tech,+23%,75,High
+PhonePe,Full Stack Developer,"Python,SQL,React",15,19,5-8 Years,Hyderabad,Hybrid,IT/Tech,+57%,83,Explosive
+Jio,Product Manager,"Python,Machine Learning",14,27,8+ Years,Mumbai,Onsite,IT/Tech,+17%,84,Explosive
+CRED,Full Stack Developer,"Python,SQL,React",14,27,1-3 Years,Remote,Remote,IT/Tech,+18%,95,Very High
+Meesho,Frontend Developer,"Python,SQL,React",4,7,Entry Level,Hyderabad,Hybrid,IT/Tech,+60%,96,Very High
+Wipro,Product Manager,"Python,Machine Learning",19,30,5-8 Years,Chennai,Hybrid,IT/Tech,+38%,89,Explosive
+Sarvam AI,Cybersecurity Analyst,"Python,Machine Learning",12,15,Entry Level,Remote,Remote,IT/Tech,+60%,86,Explosive
+Meesho,DevOps Engineer,"Python,Machine Learning",10,19,3-5 Years,Mumbai,Hybrid,IT/Tech,+21%,75,Very High
+Razorpay,Frontend Developer,"Python,SQL,React",12,21,3-5 Years,Chennai,Hybrid,IT/Tech,+48%,93,Explosive
+Meesho,Cybersecurity Analyst,"Python,Machine Learning",15,22,5-8 Years,Remote,Remote,IT/Tech,+45%,89,Very High
+Amazon India,UI/UX Designer,"Python,Machine Learning",11,26,1-3 Years,Mumbai,Onsite,IT/Tech,+44%,70,Very High
+Freshworks,UI/UX Designer,"Python,Machine Learning",12,19,3-5 Years,Delhi/NCR,Onsite,IT/Tech,+51%,87,High
+Zomato,Backend Developer,"Python,SQL,React",11,16,5-8 Years,Remote,Remote,IT/Tech,+22%,84,Explosive
+Nykaa,Full Stack Developer,"Python,SQL,React",7,10,Entry Level,Delhi/NCR,Hybrid,IT/Tech,+27%,96,Explosive
+HCL,Blockchain Developer,"Python,SQL,React",11,22,5-8 Years,Bangalore,Hybrid,IT/Tech,+23%,97,Very High
+Meesho,Blockchain Developer,"Python,SQL,React",4,7,Entry Level,Bangalore,Onsite,IT/Tech,+57%,90,Very High
+Jio,UI/UX Designer,"Python,Machine Learning",8,14,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+21%,85,Stable
+Meesho,Full Stack Developer,"Python,SQL,React",12,25,3-5 Years,Chennai,Hybrid,IT/Tech,+18%,97,Very High
+Accenture,DevOps Engineer,"Python,Machine Learning",9,15,5-8 Years,Hyderabad,Onsite,IT/Tech,+18%,97,Explosive
+Infosys,ML Engineer,"Python,Machine Learning",10,22,8+ Years,Delhi/NCR,Onsite,IT/Tech,+43%,86,Very High
+Flipkart,DevOps Engineer,"Python,Machine Learning",7,10,Entry Level,Pune,Hybrid,IT/Tech,+34%,85,Stable
+Capgemini,DevOps Engineer,"Python,Machine Learning",14,27,5-8 Years,Pune,Hybrid,IT/Tech,+52%,90,Stable
+Google India,Blockchain Developer,"Python,SQL,React",14,17,Entry Level,Chennai,Hybrid,IT/Tech,+27%,93,Very High
+Freshworks,Prompt Engineer,"Python,Machine Learning",3,7,1-3 Years,Bangalore,Hybrid,IT/Tech,+21%,72,Stable
+Freshworks,Software Engineer,"Python,Machine Learning",3,6,Entry Level,Delhi/NCR,Onsite,IT/Tech,+45%,83,Very High
+Deloitte,Product Manager,"Python,Machine Learning",9,17,5-8 Years,Bangalore,Onsite,IT/Tech,+47%,88,Stable
+Razorpay,Software Engineer,"Python,Machine Learning",22,29,1-3 Years,Mumbai,Onsite,IT/Tech,+54%,76,Very High
+Capgemini,Full Stack Developer,"Python,SQL,React",3,11,8+ Years,Bangalore,Hybrid,IT/Tech,+25%,74,Explosive
+Infosys,Cloud Engineer,"Python,Machine Learning",3,6,Entry Level,Pune,Hybrid,IT/Tech,+26%,73,Stable
+TCS,Data Scientist,"Python,Machine Learning",10,13,5-8 Years,Remote,Remote,IT/Tech,+34%,75,Very High
+Infosys,Software Engineer,"Python,Machine Learning",13,28,5-8 Years,Hyderabad,Hybrid,IT/Tech,+59%,85,Stable
+Wipro,Blockchain Developer,"Python,SQL,React",11,18,5-8 Years,Bangalore,Hybrid,IT/Tech,+38%,97,High
+Cognizant,Frontend Developer,"Python,SQL,React",15,23,8+ Years,Pune,Onsite,IT/Tech,+20%,77,Explosive
+TCS,Frontend Developer,"Python,SQL,React",15,29,5-8 Years,Pune,Onsite,IT/Tech,+42%,95,Very High
+Capgemini,UI/UX Designer,"Python,Machine Learning",15,18,5-8 Years,Chennai,Hybrid,IT/Tech,+33%,92,Explosive
+Accenture,Prompt Engineer,"Python,Machine Learning",6,9,Entry Level,Pune,Hybrid,IT/Tech,+55%,80,Explosive
+Swiggy,Frontend Developer,"Python,SQL,React",3,17,5-8 Years,Mumbai,Hybrid,IT/Tech,+16%,97,High
+Zomato,Full Stack Developer,"Python,SQL,React",3,6,Entry Level,Mumbai,Onsite,IT/Tech,+53%,79,Stable
+CRED,Blockchain Developer,"Python,SQL,React",4,12,5-8 Years,Mumbai,Hybrid,IT/Tech,+47%,76,Explosive
+Cognizant,Product Manager,"Python,Machine Learning",11,14,Entry Level,Mumbai,Hybrid,IT/Tech,+24%,73,Explosive
+Infosys,Blockchain Developer,"Python,SQL,React",5,19,8+ Years,Hyderabad,Hybrid,IT/Tech,+49%,72,High
+Razorpay,Software Engineer,"Python,Machine Learning",20,25,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+36%,71,Explosive
+CRED,Data Analyst,"Python,Machine Learning",5,14,8+ Years,Pune,Hybrid,IT/Tech,+25%,91,Stable
+Amazon India,Software Engineer,"Python,Machine Learning",14,26,8+ Years,Remote,Remote,IT/Tech,+49%,93,Explosive
+Cognizant,Full Stack Developer,"Python,SQL,React",9,14,8+ Years,Bangalore,Onsite,IT/Tech,+44%,99,High
+Google India,Data Analyst,"Python,Machine Learning",8,11,Entry Level,Hyderabad,Hybrid,IT/Tech,+56%,86,Explosive
+Infosys,UI/UX Designer,"Python,Machine Learning",4,9,5-8 Years,Bangalore,Hybrid,IT/Tech,+47%,78,Very High
+HCL,Frontend Developer,"Python,SQL,React",8,20,3-5 Years,Bangalore,Hybrid,IT/Tech,+22%,85,Explosive
+HCL,Frontend Developer,"Python,SQL,React",4,19,5-8 Years,Delhi/NCR,Onsite,IT/Tech,+48%,88,Stable
+Deloitte,AI Engineer,"Python,Machine Learning",17,32,5-8 Years,Chennai,Hybrid,IT/Tech,+33%,90,Stable
+PhonePe,Cloud Engineer,"Python,Machine Learning",11,14,Entry Level,Chennai,Hybrid,IT/Tech,+15%,95,Very High
+Amazon India,Cloud Engineer,"Python,Machine Learning",23,29,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+45%,90,Explosive
+Deloitte,ML Engineer,"Python,Machine Learning",18,25,3-5 Years,Pune,Hybrid,IT/Tech,+25%,87,High
+Infosys,DevOps Engineer,"Python,Machine Learning",3,6,Entry Level,Remote,Remote,IT/Tech,+49%,98,Very High
+Sarvam AI,Backend Developer,"Python,SQL,React",13,25,1-3 Years,Mumbai,Onsite,IT/Tech,+37%,77,High
+Microsoft India,Data Analyst,"Python,Machine Learning",20,32,1-3 Years,Mumbai,Onsite,IT/Tech,+46%,71,Very High
+Swiggy,Blockchain Developer,"Python,SQL,React",14,28,1-3 Years,Bangalore,Onsite,IT/Tech,+41%,90,Very High
+Swiggy,Blockchain Developer,"Python,SQL,React",9,24,3-5 Years,Chennai,Onsite,IT/Tech,+16%,83,Very High
+Cognizant,Prompt Engineer,"Python,Machine Learning",10,15,8+ Years,Hyderabad,Onsite,IT/Tech,+17%,90,Stable
+PhonePe,Frontend Developer,"Python,SQL,React",7,10,8+ Years,Pune,Onsite,IT/Tech,+33%,70,Explosive
+HCL,Software Engineer,"Python,Machine Learning",11,23,1-3 Years,Pune,Hybrid,IT/Tech,+15%,90,High
+Razorpay,Blockchain Developer,"Python,SQL,React",16,19,Entry Level,Pune,Onsite,IT/Tech,+23%,93,Very High
+CRED,Frontend Developer,"Python,SQL,React",9,13,1-3 Years,Pune,Hybrid,IT/Tech,+52%,98,Stable
+Google India,Software Engineer,"Python,Machine Learning",16,31,5-8 Years,Mumbai,Onsite,IT/Tech,+57%,90,Explosive
+Accenture,Frontend Developer,"Python,SQL,React",3,6,Entry Level,Hyderabad,Hybrid,IT/Tech,+58%,97,High
+Meesho,Prompt Engineer,"Python,Machine Learning",15,19,3-5 Years,Bangalore,Onsite,IT/Tech,+20%,82,Explosive
+Freshworks,Prompt Engineer,"Python,Machine Learning",10,13,1-3 Years,Bangalore,Onsite,IT/Tech,+52%,91,Very High
+Sarvam AI,Full Stack Developer,"Python,SQL,React",3,14,1-3 Years,Bangalore,Hybrid,IT/Tech,+50%,76,Explosive
+Swiggy,Data Analyst,"Python,Machine Learning",10,13,Entry Level,Remote,Remote,IT/Tech,+42%,91,High
+Meesho,Product Manager,"Python,Machine Learning",13,18,5-8 Years,Chennai,Onsite,IT/Tech,+30%,82,Explosive
+Cognizant,Cloud Engineer,"Python,Machine Learning",6,13,3-5 Years,Remote,Remote,IT/Tech,+19%,89,High
+Swiggy,Frontend Developer,"Python,SQL,React",13,16,8+ Years,Hyderabad,Onsite,IT/Tech,+21%,87,High
+Jio,Full Stack Developer,"Python,SQL,React",12,22,3-5 Years,Delhi/NCR,Hybrid,IT/Tech,+51%,83,Stable
+Amazon India,Cloud Engineer,"Python,Machine Learning",18,24,1-3 Years,Remote,Remote,IT/Tech,+58%,73,Explosive
+Nykaa,Cybersecurity Analyst,"Python,Machine Learning",3,6,3-5 Years,Remote,Remote,IT/Tech,+34%,92,Very High
+Freshworks,DevOps Engineer,"Python,Machine Learning",8,22,8+ Years,Delhi/NCR,Onsite,IT/Tech,+24%,71,Stable
+Razorpay,Prompt Engineer,"Python,Machine Learning",16,19,Entry Level,Hyderabad,Hybrid,IT/Tech,+46%,80,Very High
+Jio,Full Stack Developer,"Python,SQL,React",4,9,5-8 Years,Chennai,Hybrid,IT/Tech,+54%,82,Explosive
+Amazon India,UI/UX Designer,"Python,Machine Learning",20,31,5-8 Years,Bangalore,Onsite,IT/Tech,+57%,70,Stable
+PhonePe,DevOps Engineer,"Python,Machine Learning",6,20,5-8 Years,Mumbai,Hybrid,IT/Tech,+60%,79,Stable
+Zomato,AI Engineer,"Python,Machine Learning",17,31,1-3 Years,Hyderabad,Onsite,IT/Tech,+30%,98,Very High
+Zerodha,Blockchain Developer,"Python,SQL,React",21,30,8+ Years,Chennai,Hybrid,IT/Tech,+36%,91,Very High
+Amazon India,Cybersecurity Analyst,"Python,Machine Learning",11,14,Entry Level,Delhi/NCR,Hybrid,IT/Tech,+27%,79,Stable
+Cognizant,Prompt Engineer,"Python,Machine Learning",4,13,8+ Years,Pune,Hybrid,IT/Tech,+53%,91,Stable
+Krutrim,Data Scientist,"Python,Machine Learning",5,8,Entry Level,Hyderabad,Hybrid,IT/Tech,+48%,98,Very High
+Microsoft India,AI Engineer,"Python,Machine Learning",20,23,Entry Level,Remote,Remote,IT/Tech,+51%,80,High
+Cognizant,AI Engineer,"Python,Machine Learning",13,25,8+ Years,Pune,Onsite,IT/Tech,+15%,82,Stable
+Razorpay,UI/UX Designer,"Python,Machine Learning",22,26,8+ Years,Chennai,Hybrid,IT/Tech,+26%,99,Stable
+Accenture,Product Manager,"Python,Machine Learning",14,25,3-5 Years,Bangalore,Onsite,IT/Tech,+17%,84,High
+Amazon India,Blockchain Developer,"Python,SQL,React",11,20,1-3 Years,Chennai,Hybrid,IT/Tech,+45%,72,Very High
+TCS,AI Engineer,"Python,Machine Learning",14,18,3-5 Years,Hyderabad,Hybrid,IT/Tech,+35%,70,Explosive
+Sarvam AI,Backend Developer,"Python,SQL,React",10,13,Entry Level,Pune,Hybrid,IT/Tech,+45%,80,Stable
+Tech Mahindra,DevOps Engineer,"Python,Machine Learning",15,26,1-3 Years,Hyderabad,Hybrid,IT/Tech,+15%,92,High
+Flipkart,Prompt Engineer,"Python,Machine Learning",13,24,8+ Years,Mumbai,Onsite,IT/Tech,+47%,89,High
+Infosys,DevOps Engineer,"Python,Machine Learning",6,18,1-3 Years,Chennai,Onsite,IT/Tech,+25%,93,Stable
+Zoho,Blockchain Developer,"Python,SQL,React",15,27,5-8 Years,Pune,Hybrid,IT/Tech,+54%,97,Very High
+TCS,Blockchain Developer,"Python,SQL,React",7,16,8+ Years,Delhi/NCR,Onsite,IT/Tech,+48%,91,Explosive
+Deloitte,Frontend Developer,"Python,SQL,React",7,17,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+26%,95,Very High
+Amazon India,Cloud Engineer,"Python,Machine Learning",18,27,5-8 Years,Hyderabad,Onsite,IT/Tech,+18%,95,High
+Capgemini,Backend Developer,"Python,SQL,React",4,12,1-3 Years,Remote,Remote,IT/Tech,+58%,82,Explosive
+Meesho,AI Engineer,"Python,Machine Learning",12,15,Entry Level,Chennai,Hybrid,IT/Tech,+41%,83,Very High
+Infosys,AI Engineer,"Python,Machine Learning",18,30,3-5 Years,Pune,Hybrid,IT/Tech,+35%,77,High
+HCL,Data Analyst,"Python,Machine Learning",13,16,8+ Years,Chennai,Onsite,IT/Tech,+56%,87,Explosive
+Freshworks,Cybersecurity Analyst,"Python,Machine Learning",6,21,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+15%,94,Very High
+TCS,Software Engineer,"Python,Machine Learning",7,16,8+ Years,Remote,Remote,IT/Tech,+38%,78,Stable
+CRED,Software Engineer,"Python,Machine Learning",3,12,5-8 Years,Pune,Hybrid,IT/Tech,+50%,93,High
+CRED,Blockchain Developer,"Python,SQL,React",6,20,8+ Years,Mumbai,Hybrid,IT/Tech,+41%,76,Very High
+Microsoft India,Data Scientist,"Python,Machine Learning",15,18,Entry Level,Chennai,Hybrid,IT/Tech,+17%,95,High
+Sarvam AI,Prompt Engineer,"Python,Machine Learning",11,14,Entry Level,Remote,Remote,IT/Tech,+20%,83,High
+Flipkart,Data Analyst,"Python,Machine Learning",7,16,5-8 Years,Mumbai,Hybrid,IT/Tech,+46%,76,Stable
+Nykaa,Data Analyst,"Python,Machine Learning",7,22,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+27%,83,Very High
+Zoho,DevOps Engineer,"Python,Machine Learning",3,8,1-3 Years,Delhi/NCR,Onsite,IT/Tech,+53%,87,Explosive
+Zerodha,Data Analyst,"Python,Machine Learning",11,14,Entry Level,Bangalore,Onsite,IT/Tech,+46%,82,Stable
+CRED,ML Engineer,"Python,Machine Learning",19,32,5-8 Years,Hyderabad,Hybrid,IT/Tech,+44%,78,Stable
+Google India,Frontend Developer,"Python,SQL,React",13,17,3-5 Years,Hyderabad,Hybrid,IT/Tech,+23%,71,Explosive
+CRED,Software Engineer,"Python,Machine Learning",14,22,3-5 Years,Bangalore,Hybrid,IT/Tech,+49%,96,Stable
+Infosys,Blockchain Developer,"Python,SQL,React",4,18,5-8 Years,Chennai,Hybrid,IT/Tech,+37%,94,High
+Sarvam AI,Data Scientist,"Python,Machine Learning",11,14,Entry Level,Mumbai,Hybrid,IT/Tech,+44%,73,High
+Tech Mahindra,Prompt Engineer,"Python,Machine Learning",11,14,Entry Level,Bangalore,Onsite,IT/Tech,+36%,83,High
+Tech Mahindra,Blockchain Developer,"Python,SQL,React",8,17,5-8 Years,Pune,Hybrid,IT/Tech,+25%,90,Very High
+HCL,Backend Developer,"Python,SQL,React",3,6,Entry Level,Remote,Remote,IT/Tech,+50%,86,High
+Accenture,Software Engineer,"Python,Machine Learning",11,14,Entry Level,Delhi/NCR,Onsite,IT/Tech,+41%,77,Stable
+Jio,Data Analyst,"Python,Machine Learning",3,6,Entry Level,Mumbai,Hybrid,IT/Tech,+50%,80,Very High
+Wipro,Frontend Developer,"Python,SQL,React",4,12,8+ Years,Bangalore,Onsite,IT/Tech,+58%,80,High
+TCS,UI/UX Designer,"Python,Machine Learning",12,17,1-3 Years,Hyderabad,Onsite,IT/Tech,+18%,82,Explosive
+Microsoft India,Prompt Engineer,"Python,Machine Learning",20,26,3-5 Years,Pune,Hybrid,IT/Tech,+47%,70,Very High
+Google India,Frontend Developer,"Python,SQL,React",20,35,1-3 Years,Chennai,Hybrid,IT/Tech,+18%,83,Very High
+Zerodha,AI Engineer,"Python,Machine Learning",19,29,3-5 Years,Hyderabad,Onsite,IT/Tech,+58%,98,High
+PhonePe,Backend Developer,"Python,SQL,React",12,23,5-8 Years,Chennai,Onsite,IT/Tech,+44%,96,Stable
+Cognizant,Prompt Engineer,"Python,Machine Learning",11,16,8+ Years,Hyderabad,Onsite,IT/Tech,+58%,93,Very High
+Sarvam AI,Prompt Engineer,"Python,Machine Learning",8,11,1-3 Years,Delhi/NCR,Onsite,IT/Tech,+44%,74,High
+TCS,Data Analyst,"Python,Machine Learning",3,6,3-5 Years,Delhi/NCR,Onsite,IT/Tech,+34%,75,High
+Accenture,Software Engineer,"Python,Machine Learning",7,15,1-3 Years,Pune,Hybrid,IT/Tech,+36%,84,High
+Amazon India,Cybersecurity Analyst,"Python,Machine Learning",11,18,8+ Years,Pune,Hybrid,IT/Tech,+23%,76,Very High
+Zoho,Product Manager,"Python,Machine Learning",20,32,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+25%,73,High
+Tech Mahindra,Data Scientist,"Python,Machine Learning",11,16,1-3 Years,Pune,Hybrid,IT/Tech,+19%,75,Stable
+Zerodha,Software Engineer,"Python,Machine Learning",15,18,Entry Level,Hyderabad,Onsite,IT/Tech,+56%,87,Explosive
+Meesho,Data Analyst,"Python,Machine Learning",8,11,Entry Level,Chennai,Hybrid,IT/Tech,+60%,91,High
+Tech Mahindra,Prompt Engineer,"Python,Machine Learning",9,20,5-8 Years,Remote,Remote,IT/Tech,+23%,91,Explosive
+Wipro,Product Manager,"Python,Machine Learning",19,31,1-3 Years,Delhi/NCR,Hybrid,IT/Tech,+40%,95,Stable
+Cognizant,UI/UX Designer,"Python,Machine Learning",11,14,Entry Level,Chennai,Hybrid,IT/Tech,+36%,71,Explosive
+Jio,Blockchain Developer,"Python,SQL,React",5,17,1-3 Years,Mumbai,Hybrid,IT/Tech,+60%,97,High
+Nykaa,UI/UX Designer,"Python,Machine Learning",6,11,5-8 Years,Mumbai,Hybrid,IT/Tech,+58%,83,Explosive
+Krutrim,Cloud Engineer,"Python,Machine Learning",9,21,1-3 Years,Chennai,Hybrid,IT/Tech,+29%,76,Stable
+Zomato,AI Engineer,"Python,Machine Learning",19,34,3-5 Years,Bangalore,Hybrid,IT/Tech,+54%,82,Very High
+HCL,Data Scientist,"Python,Machine Learning",3,6,5-8 Years,Chennai,Onsite,IT/Tech,+29%,73,Very High
+Swiggy,UI/UX Designer,"Python,Machine Learning",14,22,1-3 Years,Chennai,Hybrid,IT/Tech,+44%,82,Very High
+Swiggy,ML Engineer,"Python,Machine Learning",8,11,3-5 Years,Mumbai,Hybrid,IT/Tech,+24%,84,High
+Jio,Data Analyst,"Python,Machine Learning",4,8,5-8 Years,Mumbai,Hybrid,IT/Tech,+49%,97,Very High
+CRED,Software Engineer,"Python,Machine Learning",3,6,Entry Level,Hyderabad,Onsite,IT/Tech,+29%,93,High
+Amazon India,Blockchain Developer,"Python,SQL,React",18,21,Entry Level,Hyderabad,Hybrid,IT/Tech,+16%,76,Explosive
+Flipkart,Product Manager,"Python,Machine Learning",16,20,5-8 Years,Bangalore,Hybrid,IT/Tech,+59%,99,Stable
+PhonePe,UI/UX Designer,"Python,Machine Learning",3,6,Entry Level,Chennai,Hybrid,IT/Tech,+18%,93,Stable
+Deloitte,Data Analyst,"Python,Machine Learning",4,7,8+ Years,Mumbai,Hybrid,IT/Tech,+49%,78,Stable
+Deloitte,Data Analyst,"Python,Machine Learning",7,14,1-3 Years,Remote,Remote,IT/Tech,+32%,74,Explosive
+Google India,AI Engineer,"Python,Machine Learning",24,39,8+ Years,Chennai,Hybrid,IT/Tech,+16%,97,High
+Freshworks,Frontend Developer,"Python,SQL,React",5,19,8+ Years,Bangalore,Onsite,IT/Tech,+53%,94,Stable
+Zerodha,Data Scientist,"Python,Machine Learning",21,30,8+ Years,Delhi/NCR,Onsite,IT/Tech,+34%,75,Very High
+Google India,Cybersecurity Analyst,"Python,Machine Learning",13,23,3-5 Years,Remote,Remote,IT/Tech,+52%,84,Explosive
+Infosys,UI/UX Designer,"Python,Machine Learning",8,14,5-8 Years,Bangalore,Hybrid,IT/Tech,+25%,74,Very High
+Nykaa,Backend Developer,"Python,SQL,React",10,23,3-5 Years,Bangalore,Onsite,IT/Tech,+26%,78,Explosive
+Google India,ML Engineer,"Python,Machine Learning",17,23,5-8 Years,Delhi/NCR,Onsite,IT/Tech,+31%,74,Stable
+Meesho,DevOps Engineer,"Python,Machine Learning",9,13,1-3 Years,Remote,Remote,IT/Tech,+46%,90,High
+Zomato,Frontend Developer,"Python,SQL,React",7,10,Entry Level,Chennai,Hybrid,IT/Tech,+59%,80,Explosive
+Freshworks,Product Manager,"Python,Machine Learning",8,11,8+ Years,Remote,Remote,IT/Tech,+31%,70,Explosive
+Deloitte,Cloud Engineer,"Python,Machine Learning",8,16,1-3 Years,Chennai,Hybrid,IT/Tech,+15%,81,Explosive
+Krutrim,Full Stack Developer,"Python,SQL,React",15,24,5-8 Years,Hyderabad,Onsite,IT/Tech,+53%,73,Explosive
+Accenture,Full Stack Developer,"Python,SQL,React",5,20,1-3 Years,Remote,Remote,IT/Tech,+59%,77,Explosive
+Nykaa,Full Stack Developer,"Python,SQL,React",14,28,3-5 Years,Bangalore,Hybrid,IT/Tech,+22%,79,Explosive
+Freshworks,AI Engineer,"Python,Machine Learning",13,23,1-3 Years,Bangalore,Onsite,IT/Tech,+55%,80,High
+Microsoft India,Full Stack Developer,"Python,SQL,React",20,32,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+49%,79,High
+Zoho,Cloud Engineer,"Python,Machine Learning",8,12,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+28%,89,Stable
+Swiggy,Full Stack Developer,"Python,SQL,React",15,18,1-3 Years,Mumbai,Hybrid,IT/Tech,+49%,91,Explosive
+Sarvam AI,Product Manager,"Python,Machine Learning",16,25,8+ Years,Chennai,Onsite,IT/Tech,+29%,81,Very High
+Razorpay,Cloud Engineer,"Python,Machine Learning",18,25,1-3 Years,Pune,Hybrid,IT/Tech,+26%,77,Very High
+Cognizant,UI/UX Designer,"Python,Machine Learning",11,19,1-3 Years,Bangalore,Hybrid,IT/Tech,+19%,81,High
+Wipro,DevOps Engineer,"Python,Machine Learning",14,20,3-5 Years,Remote,Remote,IT/Tech,+29%,92,Very High
+Infosys,Prompt Engineer,"Python,Machine Learning",13,16,1-3 Years,Remote,Remote,IT/Tech,+48%,72,Explosive
+Razorpay,Frontend Developer,"Python,SQL,React",13,18,3-5 Years,Bangalore,Onsite,IT/Tech,+50%,92,High
+Infosys,Backend Developer,"Python,SQL,React",11,14,Entry Level,Pune,Hybrid,IT/Tech,+26%,72,High
+Jio,DevOps Engineer,"Python,Machine Learning",8,11,Entry Level,Pune,Hybrid,IT/Tech,+40%,89,High
+Zerodha,Data Scientist,"Python,Machine Learning",16,19,Entry Level,Mumbai,Onsite,IT/Tech,+54%,82,Explosive
+TCS,Backend Developer,"Python,SQL,React",4,13,8+ Years,Remote,Remote,IT/Tech,+56%,91,Stable
+CRED,DevOps Engineer,"Python,Machine Learning",3,11,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+44%,87,Explosive
+Krutrim,AI Engineer,"Python,Machine Learning",14,17,Entry Level,Hyderabad,Onsite,IT/Tech,+20%,87,Explosive
+CRED,Product Manager,"Python,Machine Learning",16,22,3-5 Years,Mumbai,Hybrid,IT/Tech,+33%,85,Explosive
+PhonePe,Data Analyst,"Python,Machine Learning",14,18,1-3 Years,Bangalore,Hybrid,IT/Tech,+36%,73,Explosive
+Amazon India,DevOps Engineer,"Python,Machine Learning",23,33,1-3 Years,Remote,Remote,IT/Tech,+59%,79,Explosive
+Deloitte,UI/UX Designer,"Python,Machine Learning",3,18,5-8 Years,Chennai,Onsite,IT/Tech,+36%,79,Stable
+Capgemini,Full Stack Developer,"Python,SQL,React",8,21,5-8 Years,Bangalore,Onsite,IT/Tech,+44%,82,High
+PhonePe,Backend Developer,"Python,SQL,React",7,19,1-3 Years,Mumbai,Hybrid,IT/Tech,+56%,80,Stable
+Cognizant,AI Engineer,"Python,Machine Learning",15,27,3-5 Years,Pune,Hybrid,IT/Tech,+21%,91,Very High
+Amazon India,Prompt Engineer,"Python,Machine Learning",21,34,8+ Years,Bangalore,Onsite,IT/Tech,+58%,84,Very High
+Capgemini,DevOps Engineer,"Python,Machine Learning",10,25,5-8 Years,Delhi/NCR,Onsite,IT/Tech,+21%,73,Very High
+Flipkart,Data Scientist,"Python,Machine Learning",14,27,5-8 Years,Pune,Onsite,IT/Tech,+37%,89,Stable
+Deloitte,ML Engineer,"Python,Machine Learning",16,28,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+54%,75,Very High
+Microsoft India,Software Engineer,"Python,Machine Learning",17,22,1-3 Years,Remote,Remote,IT/Tech,+20%,83,Very High
+Flipkart,Backend Developer,"Python,SQL,React",8,17,3-5 Years,Pune,Onsite,IT/Tech,+40%,96,Stable
+Flipkart,AI Engineer,"Python,Machine Learning",11,15,8+ Years,Remote,Remote,IT/Tech,+38%,86,Very High
+HCL,Blockchain Developer,"Python,SQL,React",13,20,3-5 Years,Mumbai,Hybrid,IT/Tech,+32%,75,High
+Deloitte,Prompt Engineer,"Python,Machine Learning",3,13,3-5 Years,Chennai,Onsite,IT/Tech,+31%,78,Very High
+Razorpay,Prompt Engineer,"Python,Machine Learning",16,24,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+58%,99,Stable
+Jio,Backend Developer,"Python,SQL,React",7,11,3-5 Years,Hyderabad,Hybrid,IT/Tech,+46%,83,Explosive
+Zoho,AI Engineer,"Python,Machine Learning",8,20,8+ Years,Remote,Remote,IT/Tech,+24%,88,Very High
+Wipro,Blockchain Developer,"Python,SQL,React",14,25,8+ Years,Remote,Remote,IT/Tech,+17%,88,Explosive
+Freshworks,Full Stack Developer,"Python,SQL,React",11,18,8+ Years,Hyderabad,Hybrid,IT/Tech,+40%,97,High
+Zerodha,Data Analyst,"Python,Machine Learning",23,31,3-5 Years,Bangalore,Hybrid,IT/Tech,+43%,80,Explosive
+Razorpay,AI Engineer,"Python,Machine Learning",18,25,1-3 Years,Mumbai,Hybrid,IT/Tech,+27%,91,High
+Zerodha,UI/UX Designer,"Python,Machine Learning",20,31,5-8 Years,Mumbai,Hybrid,IT/Tech,+47%,79,High
+Deloitte,Data Analyst,"Python,Machine Learning",10,16,1-3 Years,Hyderabad,Onsite,IT/Tech,+21%,89,High
+Zomato,Frontend Developer,"Python,SQL,React",6,11,8+ Years,Bangalore,Onsite,IT/Tech,+24%,96,Stable
+Amazon India,Cybersecurity Analyst,"Python,Machine Learning",20,34,3-5 Years,Mumbai,Hybrid,IT/Tech,+55%,84,Stable
+Zerodha,Blockchain Developer,"Python,SQL,React",23,36,3-5 Years,Bangalore,Hybrid,IT/Tech,+58%,84,High
+Swiggy,AI Engineer,"Python,Machine Learning",15,18,Entry Level,Mumbai,Onsite,IT/Tech,+18%,99,Very High
+Capgemini,UI/UX Designer,"Python,Machine Learning",13,22,1-3 Years,Chennai,Hybrid,IT/Tech,+39%,93,Very High
+Zerodha,Data Analyst,"Python,Machine Learning",19,23,3-5 Years,Delhi/NCR,Hybrid,IT/Tech,+51%,98,High
+Google India,Data Scientist,"Python,Machine Learning",16,30,1-3 Years,Pune,Hybrid,IT/Tech,+26%,89,Explosive
+Zomato,Cybersecurity Analyst,"Python,Machine Learning",12,21,3-5 Years,Hyderabad,Hybrid,IT/Tech,+43%,91,Explosive
+Wipro,ML Engineer,"Python,Machine Learning",18,25,8+ Years,Hyderabad,Hybrid,IT/Tech,+20%,87,Explosive
+Cognizant,DevOps Engineer,"Python,Machine Learning",15,24,5-8 Years,Hyderabad,Hybrid,IT/Tech,+15%,83,Stable
+Nykaa,DevOps Engineer,"Python,Machine Learning",6,21,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+48%,84,Very High
+Deloitte,AI Engineer,"Python,Machine Learning",11,23,1-3 Years,Bangalore,Onsite,IT/Tech,+15%,95,Stable
+Jio,UI/UX Designer,"Python,Machine Learning",10,23,5-8 Years,Chennai,Hybrid,IT/Tech,+52%,84,Explosive
+Jio,Prompt Engineer,"Python,Machine Learning",12,27,5-8 Years,Pune,Hybrid,IT/Tech,+30%,75,Stable
+Deloitte,Full Stack Developer,"Python,SQL,React",3,9,1-3 Years,Mumbai,Hybrid,IT/Tech,+43%,92,Stable
+Accenture,Product Manager,"Python,Machine Learning",15,23,5-8 Years,Mumbai,Hybrid,IT/Tech,+60%,91,Explosive
+Amazon India,Backend Developer,"Python,SQL,React",16,28,5-8 Years,Remote,Remote,IT/Tech,+40%,84,Explosive
+Wipro,Backend Developer,"Python,SQL,React",6,17,1-3 Years,Pune,Onsite,IT/Tech,+38%,82,Very High
+Flipkart,Cloud Engineer,"Python,Machine Learning",10,25,1-3 Years,Bangalore,Onsite,IT/Tech,+16%,72,Very High
+CRED,Blockchain Developer,"Python,SQL,React",7,10,Entry Level,Chennai,Hybrid,IT/Tech,+47%,90,Stable
+TCS,UI/UX Designer,"Python,Machine Learning",7,10,Entry Level,Delhi/NCR,Onsite,IT/Tech,+18%,78,Stable
+Zerodha,Data Scientist,"Python,Machine Learning",21,35,3-5 Years,Mumbai,Hybrid,IT/Tech,+32%,95,High
+Nykaa,UI/UX Designer,"Python,Machine Learning",6,18,3-5 Years,Mumbai,Onsite,IT/Tech,+24%,96,Very High
+PhonePe,Prompt Engineer,"Python,Machine Learning",3,11,8+ Years,Pune,Hybrid,IT/Tech,+49%,98,Very High
+Meesho,Prompt Engineer,"Python,Machine Learning",7,18,1-3 Years,Chennai,Hybrid,IT/Tech,+25%,73,Very High
+CRED,Prompt Engineer,"Python,Machine Learning",5,8,Entry Level,Bangalore,Hybrid,IT/Tech,+54%,76,Very High
+Accenture,Cybersecurity Analyst,"Python,Machine Learning",14,18,1-3 Years,Mumbai,Hybrid,IT/Tech,+42%,70,Very High
+Sarvam AI,Backend Developer,"Python,SQL,React",3,13,5-8 Years,Mumbai,Hybrid,IT/Tech,+60%,79,Stable
+Jio,Full Stack Developer,"Python,SQL,React",5,18,8+ Years,Delhi/NCR,Onsite,IT/Tech,+58%,77,Explosive
+Capgemini,Cloud Engineer,"Python,Machine Learning",15,18,3-5 Years,Bangalore,Hybrid,IT/Tech,+24%,91,High
+Tech Mahindra,Frontend Developer,"Python,SQL,React",11,26,5-8 Years,Pune,Hybrid,IT/Tech,+41%,77,Stable
+Razorpay,Blockchain Developer,"Python,SQL,React",14,24,5-8 Years,Bangalore,Hybrid,IT/Tech,+32%,79,High
+Swiggy,Prompt Engineer,"Python,Machine Learning",6,18,8+ Years,Hyderabad,Hybrid,IT/Tech,+17%,79,Explosive
+Freshworks,Cybersecurity Analyst,"Python,Machine Learning",15,27,5-8 Years,Mumbai,Onsite,IT/Tech,+47%,73,Explosive
+Sarvam AI,ML Engineer,"Python,Machine Learning",5,8,Entry Level,Pune,Hybrid,IT/Tech,+19%,90,High
+Razorpay,UI/UX Designer,"Python,Machine Learning",18,21,Entry Level,Remote,Remote,IT/Tech,+48%,74,High
+Sarvam AI,Full Stack Developer,"Python,SQL,React",11,23,3-5 Years,Chennai,Hybrid,IT/Tech,+46%,85,Explosive
+PhonePe,AI Engineer,"Python,Machine Learning",9,24,1-3 Years,Pune,Hybrid,IT/Tech,+26%,73,Very High
+Cognizant,ML Engineer,"Python,Machine Learning",10,23,3-5 Years,Pune,Hybrid,IT/Tech,+30%,77,Very High
+Razorpay,Frontend Developer,"Python,SQL,React",17,32,5-8 Years,Hyderabad,Hybrid,IT/Tech,+47%,99,Very High
+Deloitte,UI/UX Designer,"Python,Machine Learning",4,16,3-5 Years,Remote,Remote,IT/Tech,+26%,73,Explosive
+Zerodha,Backend Developer,"Python,SQL,React",11,23,5-8 Years,Bangalore,Hybrid,IT/Tech,+30%,83,High
+Sarvam AI,Frontend Developer,"Python,SQL,React",5,17,5-8 Years,Mumbai,Onsite,IT/Tech,+42%,98,Explosive
+Sarvam AI,Full Stack Developer,"Python,SQL,React",3,11,3-5 Years,Delhi/NCR,Onsite,IT/Tech,+15%,70,Stable
+TCS,Cloud Engineer,"Python,Machine Learning",3,6,Entry Level,Pune,Hybrid,IT/Tech,+44%,94,Stable
+Swiggy,Full Stack Developer,"Python,SQL,React",9,13,3-5 Years,Pune,Hybrid,IT/Tech,+54%,78,Explosive
+Sarvam AI,AI Engineer,"Python,Machine Learning",8,16,3-5 Years,Delhi/NCR,Hybrid,IT/Tech,+27%,70,High
+Nykaa,AI Engineer,"Python,Machine Learning",19,25,5-8 Years,Pune,Onsite,IT/Tech,+19%,70,Explosive
+Deloitte,Data Analyst,"Python,Machine Learning",13,27,8+ Years,Hyderabad,Hybrid,IT/Tech,+21%,73,Very High
+PhonePe,Prompt Engineer,"Python,Machine Learning",5,13,5-8 Years,Remote,Remote,IT/Tech,+47%,80,Very High
+Tech Mahindra,Data Scientist,"Python,Machine Learning",12,18,3-5 Years,Bangalore,Hybrid,IT/Tech,+55%,84,Explosive
+Amazon India,Product Manager,"Python,Machine Learning",19,25,3-5 Years,Mumbai,Hybrid,IT/Tech,+30%,82,Explosive
+Meesho,Data Scientist,"Python,Machine Learning",10,13,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+21%,91,High
+Google India,Data Analyst,"Python,Machine Learning",12,17,3-5 Years,Mumbai,Hybrid,IT/Tech,+57%,85,Stable
+Microsoft India,Blockchain Developer,"Python,SQL,React",15,24,8+ Years,Hyderabad,Hybrid,IT/Tech,+45%,96,Stable
+CRED,AI Engineer,"Python,Machine Learning",15,18,Entry Level,Pune,Onsite,IT/Tech,+51%,91,Stable
+Tech Mahindra,Frontend Developer,"Python,SQL,React",9,24,8+ Years,Hyderabad,Hybrid,IT/Tech,+39%,90,Stable
+Krutrim,Product Manager,"Python,Machine Learning",11,14,Entry Level,Mumbai,Onsite,IT/Tech,+53%,86,Very High
+Swiggy,Frontend Developer,"Python,SQL,React",10,13,Entry Level,Bangalore,Hybrid,IT/Tech,+33%,88,Explosive
+Capgemini,Product Manager,"Python,Machine Learning",8,11,Entry Level,Chennai,Hybrid,IT/Tech,+48%,88,High
+Krutrim,Data Scientist,"Python,Machine Learning",10,14,8+ Years,Delhi/NCR,Onsite,IT/Tech,+16%,81,Stable
+Capgemini,Product Manager,"Python,Machine Learning",15,18,Entry Level,Hyderabad,Onsite,IT/Tech,+57%,97,Stable
+Accenture,Product Manager,"Python,Machine Learning",9,22,3-5 Years,Pune,Hybrid,IT/Tech,+52%,99,Stable
+Zoho,Backend Developer,"Python,SQL,React",4,13,3-5 Years,Bangalore,Hybrid,IT/Tech,+17%,71,Very High
+Sarvam AI,Prompt Engineer,"Python,Machine Learning",5,8,Entry Level,Remote,Remote,IT/Tech,+34%,70,Stable
+Zoho,Cloud Engineer,"Python,Machine Learning",15,29,3-5 Years,Bangalore,Hybrid,IT/Tech,+46%,92,High
+Nykaa,Product Manager,"Python,Machine Learning",20,25,1-3 Years,Remote,Remote,IT/Tech,+59%,73,High
+Cognizant,Backend Developer,"Python,SQL,React",3,6,Entry Level,Pune,Hybrid,IT/Tech,+20%,87,Explosive
+Sarvam AI,Data Scientist,"Python,Machine Learning",13,17,3-5 Years,Pune,Onsite,IT/Tech,+30%,75,Very High
+Deloitte,DevOps Engineer,"Python,Machine Learning",11,26,8+ Years,Hyderabad,Hybrid,IT/Tech,+29%,95,Very High
+Wipro,ML Engineer,"Python,Machine Learning",8,18,3-5 Years,Mumbai,Hybrid,IT/Tech,+15%,75,Explosive
+Meesho,Full Stack Developer,"Python,SQL,React",7,22,5-8 Years,Pune,Onsite,IT/Tech,+20%,83,Stable
+Accenture,Software Engineer,"Python,Machine Learning",9,21,1-3 Years,Hyderabad,Hybrid,IT/Tech,+52%,86,Explosive
+TCS,Product Manager,"Python,Machine Learning",19,23,5-8 Years,Remote,Remote,IT/Tech,+28%,97,Stable
+Zomato,Data Scientist,"Python,Machine Learning",8,19,8+ Years,Bangalore,Onsite,IT/Tech,+36%,97,Explosive
+Razorpay,Product Manager,"Python,Machine Learning",20,23,1-3 Years,Mumbai,Hybrid,IT/Tech,+47%,73,Very High
+TCS,Cloud Engineer,"Python,Machine Learning",7,10,Entry Level,Pune,Onsite,IT/Tech,+21%,74,High
+Infosys,Data Scientist,"Python,Machine Learning",12,26,8+ Years,Hyderabad,Onsite,IT/Tech,+43%,75,Stable
+Amazon India,Data Analyst,"Python,Machine Learning",22,34,8+ Years,Remote,Remote,IT/Tech,+54%,83,Explosive
+Cognizant,Software Engineer,"Python,Machine Learning",12,26,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+38%,71,Explosive
+CRED,AI Engineer,"Python,Machine Learning",19,31,1-3 Years,Hyderabad,Hybrid,IT/Tech,+42%,70,Very High
+Razorpay,Blockchain Developer,"Python,SQL,React",12,15,Entry Level,Hyderabad,Onsite,IT/Tech,+32%,93,Explosive
+Cognizant,Software Engineer,"Python,Machine Learning",13,21,8+ Years,Pune,Onsite,IT/Tech,+15%,87,Explosive
+TCS,Prompt Engineer,"Python,Machine Learning",7,17,8+ Years,Delhi/NCR,Onsite,IT/Tech,+50%,92,High
+Microsoft India,Product Manager,"Python,Machine Learning",25,32,5-8 Years,Remote,Remote,IT/Tech,+27%,70,High
+PhonePe,Cloud Engineer,"Python,Machine Learning",6,9,Entry Level,Mumbai,Hybrid,IT/Tech,+34%,87,High
+Accenture,Frontend Developer,"Python,SQL,React",13,18,5-8 Years,Hyderabad,Hybrid,IT/Tech,+60%,95,Explosive
+Freshworks,Software Engineer,"Python,Machine Learning",7,13,8+ Years,Bangalore,Onsite,IT/Tech,+29%,74,Explosive
+Wipro,Cybersecurity Analyst,"Python,Machine Learning",3,6,Entry Level,Remote,Remote,IT/Tech,+22%,80,Very High
+Freshworks,Full Stack Developer,"Python,SQL,React",3,6,Entry Level,Pune,Hybrid,IT/Tech,+41%,99,High
+Zoho,Software Engineer,"Python,Machine Learning",7,21,3-5 Years,Pune,Hybrid,IT/Tech,+37%,84,Stable
+Cognizant,Data Analyst,"Python,Machine Learning",3,13,3-5 Years,Pune,Hybrid,IT/Tech,+51%,91,Very High
+Zerodha,Backend Developer,"Python,SQL,React",13,16,Entry Level,Hyderabad,Hybrid,IT/Tech,+18%,87,High
+Deloitte,Full Stack Developer,"Python,SQL,React",12,19,3-5 Years,Chennai,Onsite,IT/Tech,+24%,70,Explosive
+Sarvam AI,Software Engineer,"Python,Machine Learning",11,18,8+ Years,Bangalore,Onsite,IT/Tech,+15%,72,Very High
+Amazon India,Cloud Engineer,"Python,Machine Learning",14,27,3-5 Years,Hyderabad,Onsite,IT/Tech,+26%,83,Stable
+Wipro,ML Engineer,"Python,Machine Learning",19,25,1-3 Years,Mumbai,Hybrid,IT/Tech,+40%,82,High
+Wipro,Cloud Engineer,"Python,Machine Learning",5,18,8+ Years,Remote,Remote,IT/Tech,+25%,80,Stable
+Swiggy,DevOps Engineer,"Python,Machine Learning",9,15,3-5 Years,Pune,Onsite,IT/Tech,+53%,75,Very High
+Wipro,Data Scientist,"Python,Machine Learning",13,26,5-8 Years,Mumbai,Onsite,IT/Tech,+31%,97,Explosive
+HCL,Data Analyst,"Python,Machine Learning",9,12,Entry Level,Bangalore,Hybrid,IT/Tech,+15%,73,High
+Swiggy,Product Manager,"Python,Machine Learning",17,27,8+ Years,Hyderabad,Onsite,IT/Tech,+45%,70,Explosive
+Zomato,Backend Developer,"Python,SQL,React",9,17,8+ Years,Pune,Hybrid,IT/Tech,+31%,71,Stable
+Amazon India,Frontend Developer,"Python,SQL,React",14,25,1-3 Years,Chennai,Onsite,IT/Tech,+27%,97,Stable
+Google India,Software Engineer,"Python,Machine Learning",18,24,5-8 Years,Chennai,Hybrid,IT/Tech,+30%,93,High
+Meesho,Data Scientist,"Python,Machine Learning",4,15,5-8 Years,Chennai,Hybrid,IT/Tech,+59%,80,Very High
+Meesho,Cybersecurity Analyst,"Python,Machine Learning",12,21,5-8 Years,Chennai,Hybrid,IT/Tech,+44%,93,Explosive
+Razorpay,Frontend Developer,"Python,SQL,React",14,20,3-5 Years,Pune,Hybrid,IT/Tech,+48%,78,Very High
+Google India,Frontend Developer,"Python,SQL,React",18,30,8+ Years,Chennai,Hybrid,IT/Tech,+20%,87,High
+Deloitte,DevOps Engineer,"Python,Machine Learning",3,6,Entry Level,Chennai,Onsite,IT/Tech,+19%,98,Very High
+Nykaa,Full Stack Developer,"Python,SQL,React",11,14,Entry Level,Pune,Hybrid,IT/Tech,+48%,83,Very High
+Infosys,Software Engineer,"Python,Machine Learning",5,10,1-3 Years,Chennai,Onsite,IT/Tech,+33%,88,Explosive
+Flipkart,AI Engineer,"Python,Machine Learning",9,22,8+ Years,Hyderabad,Hybrid,IT/Tech,+30%,93,Stable
+Swiggy,ML Engineer,"Python,Machine Learning",18,30,3-5 Years,Delhi/NCR,Onsite,IT/Tech,+42%,78,Explosive
+Zerodha,Blockchain Developer,"Python,SQL,React",12,20,3-5 Years,Bangalore,Hybrid,IT/Tech,+47%,93,Explosive
+Krutrim,Cloud Engineer,"Python,Machine Learning",4,7,Entry Level,Remote,Remote,IT/Tech,+54%,85,Stable
+Krutrim,Backend Developer,"Python,SQL,React",15,18,3-5 Years,Remote,Remote,IT/Tech,+24%,96,High
+Zoho,DevOps Engineer,"Python,Machine Learning",10,16,3-5 Years,Bangalore,Onsite,IT/Tech,+45%,98,Explosive
+Sarvam AI,UI/UX Designer,"Python,Machine Learning",5,13,5-8 Years,Hyderabad,Hybrid,IT/Tech,+44%,74,Explosive
+Jio,Software Engineer,"Python,Machine Learning",14,29,8+ Years,Chennai,Hybrid,IT/Tech,+45%,99,High
+Zoho,Cybersecurity Analyst,"Python,Machine Learning",14,23,1-3 Years,Mumbai,Onsite,IT/Tech,+33%,76,Very High
+Amazon India,ML Engineer,"Python,Machine Learning",20,35,5-8 Years,Hyderabad,Hybrid,IT/Tech,+48%,98,High
+Accenture,Software Engineer,"Python,Machine Learning",15,20,3-5 Years,Bangalore,Onsite,IT/Tech,+27%,77,Stable
+Amazon India,Data Analyst,"Python,Machine Learning",15,23,1-3 Years,Chennai,Hybrid,IT/Tech,+53%,88,Explosive
+Nykaa,Data Scientist,"Python,Machine Learning",14,21,5-8 Years,Pune,Onsite,IT/Tech,+48%,93,Stable
+Meesho,Data Scientist,"Python,Machine Learning",14,18,3-5 Years,Mumbai,Onsite,IT/Tech,+16%,94,Explosive
+Jio,Blockchain Developer,"Python,SQL,React",12,15,Entry Level,Mumbai,Hybrid,IT/Tech,+22%,80,Explosive
+Krutrim,AI Engineer,"Python,Machine Learning",6,9,Entry Level,Remote,Remote,IT/Tech,+31%,70,Explosive
+CRED,Data Analyst,"Python,Machine Learning",6,13,8+ Years,Pune,Hybrid,IT/Tech,+20%,84,Very High
+Wipro,ML Engineer,"Python,Machine Learning",11,14,Entry Level,Bangalore,Hybrid,IT/Tech,+36%,80,High
+Microsoft India,Data Scientist,"Python,Machine Learning",11,23,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+25%,87,High
+Microsoft India,Backend Developer,"Python,SQL,React",12,19,3-5 Years,Bangalore,Hybrid,IT/Tech,+17%,80,High
+Jio,Blockchain Developer,"Python,SQL,React",14,22,1-3 Years,Chennai,Onsite,IT/Tech,+41%,70,High
+TCS,Backend Developer,"Python,SQL,React",5,8,Entry Level,Bangalore,Hybrid,IT/Tech,+30%,92,High
+Zomato,Software Engineer,"Python,Machine Learning",5,10,8+ Years,Bangalore,Hybrid,IT/Tech,+60%,96,Explosive
+Deloitte,Data Scientist,"Python,Machine Learning",9,12,Entry Level,Chennai,Hybrid,IT/Tech,+58%,71,Stable
+Freshworks,Software Engineer,"Python,Machine Learning",4,13,5-8 Years,Delhi/NCR,Onsite,IT/Tech,+56%,98,Stable
+Nykaa,Product Manager,"Python,Machine Learning",7,10,Entry Level,Chennai,Onsite,IT/Tech,+44%,75,Very High
+Meesho,Frontend Developer,"Python,SQL,React",11,14,Entry Level,Bangalore,Hybrid,IT/Tech,+52%,93,Stable
+Krutrim,DevOps Engineer,"Python,Machine Learning",7,22,3-5 Years,Pune,Hybrid,IT/Tech,+34%,92,High
+Razorpay,AI Engineer,"Python,Machine Learning",16,21,3-5 Years,Chennai,Hybrid,IT/Tech,+58%,96,Stable
+Tech Mahindra,DevOps Engineer,"Python,Machine Learning",4,9,1-3 Years,Delhi/NCR,Hybrid,IT/Tech,+47%,80,Stable
+Zomato,Data Scientist,"Python,Machine Learning",3,6,Entry Level,Hyderabad,Hybrid,IT/Tech,+34%,86,Very High
+Swiggy,Cloud Engineer,"Python,Machine Learning",15,26,8+ Years,Hyderabad,Hybrid,IT/Tech,+48%,84,Very High
+Accenture,Prompt Engineer,"Python,Machine Learning",5,12,5-8 Years,Chennai,Hybrid,IT/Tech,+40%,98,Very High
+Wipro,UI/UX Designer,"Python,Machine Learning",12,27,1-3 Years,Pune,Hybrid,IT/Tech,+40%,92,Explosive
+Accenture,Full Stack Developer,"Python,SQL,React",10,18,3-5 Years,Hyderabad,Hybrid,IT/Tech,+17%,73,Stable
+Krutrim,Software Engineer,"Python,Machine Learning",11,16,5-8 Years,Hyderabad,Onsite,IT/Tech,+50%,96,Very High
+Flipkart,Product Manager,"Python,Machine Learning",16,19,Entry Level,Remote,Remote,IT/Tech,+54%,99,Very High
+Jio,Product Manager,"Python,Machine Learning",15,29,8+ Years,Remote,Remote,IT/Tech,+15%,79,High
+Amazon India,Product Manager,"Python,Machine Learning",26,29,3-5 Years,Hyderabad,Onsite,IT/Tech,+60%,70,Very High
+Krutrim,Cloud Engineer,"Python,Machine Learning",3,9,8+ Years,Pune,Onsite,IT/Tech,+30%,71,High
+PhonePe,Data Analyst,"Python,Machine Learning",6,11,5-8 Years,Delhi/NCR,Hybrid,IT/Tech,+24%,70,Very High
+Swiggy,AI Engineer,"Python,Machine Learning",18,32,5-8 Years,Chennai,Onsite,IT/Tech,+40%,78,Stable
+Cognizant,Frontend Developer,"Python,SQL,React",14,17,1-3 Years,Chennai,Hybrid,IT/Tech,+44%,87,Explosive
+Cognizant,UI/UX Designer,"Python,Machine Learning",3,7,1-3 Years,Bangalore,Onsite,IT/Tech,+22%,75,Stable
+Amazon India,Cybersecurity Analyst,"Python,Machine Learning",17,24,8+ Years,Remote,Remote,IT/Tech,+21%,86,Stable
+Google India,Cybersecurity Analyst,"Python,Machine Learning",11,23,1-3 Years,Bangalore,Hybrid,IT/Tech,+39%,91,Very High
+Tech Mahindra,Backend Developer,"Python,SQL,React",5,13,3-5 Years,Remote,Remote,IT/Tech,+30%,92,Stable
+Cognizant,Data Scientist,"Python,Machine Learning",11,15,5-8 Years,Mumbai,Hybrid,IT/Tech,+17%,79,Very High
+CRED,Cybersecurity Analyst,"Python,Machine Learning",15,29,8+ Years,Hyderabad,Hybrid,IT/Tech,+43%,75,Stable
+Nykaa,Data Analyst,"Python,Machine Learning",5,11,3-5 Years,Hyderabad,Hybrid,IT/Tech,+30%,91,Explosive
+Google India,AI Engineer,"Python,Machine Learning",25,34,5-8 Years,Remote,Remote,IT/Tech,+41%,87,Explosive
+Accenture,Frontend Developer,"Python,SQL,React",3,6,1-3 Years,Delhi/NCR,Onsite,IT/Tech,+35%,96,Explosive
+CRED,DevOps Engineer,"Python,Machine Learning",11,16,5-8 Years,Remote,Remote,IT/Tech,+15%,82,Stable
+TCS,Cybersecurity Analyst,"Python,Machine Learning",4,15,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+22%,83,Very High
+HCL,Prompt Engineer,"Python,Machine Learning",10,22,3-5 Years,Mumbai,Onsite,IT/Tech,+35%,83,Stable
+Infosys,Product Manager,"Python,Machine Learning",17,21,8+ Years,Chennai,Hybrid,IT/Tech,+59%,93,Very High
+Nykaa,Prompt Engineer,"Python,Machine Learning",3,6,Entry Level,Hyderabad,Onsite,IT/Tech,+52%,77,Stable
+Wipro,Data Scientist,"Python,Machine Learning",6,17,8+ Years,Remote,Remote,IT/Tech,+47%,79,Stable
+Jio,Data Analyst,"Python,Machine Learning",10,23,8+ Years,Mumbai,Onsite,IT/Tech,+60%,79,Very High
+Infosys,AI Engineer,"Python,Machine Learning",15,18,Entry Level,Bangalore,Onsite,IT/Tech,+54%,81,Very High
+Google India,Blockchain Developer,"Python,SQL,React",14,28,5-8 Years,Pune,Hybrid,IT/Tech,+40%,74,Stable
+PhonePe,Prompt Engineer,"Python,Machine Learning",3,14,8+ Years,Pune,Onsite,IT/Tech,+17%,70,Explosive
+Jio,Backend Developer,"Python,SQL,React",4,11,5-8 Years,Delhi/NCR,Onsite,IT/Tech,+26%,74,Stable
+Krutrim,Blockchain Developer,"Python,SQL,React",15,28,1-3 Years,Pune,Hybrid,IT/Tech,+21%,83,Stable
+Accenture,DevOps Engineer,"Python,Machine Learning",7,21,8+ Years,Bangalore,Onsite,IT/Tech,+58%,95,Stable
+TCS,UI/UX Designer,"Python,Machine Learning",6,19,1-3 Years,Delhi/NCR,Onsite,IT/Tech,+47%,99,Explosive
+Accenture,Full Stack Developer,"Python,SQL,React",14,19,5-8 Years,Chennai,Hybrid,IT/Tech,+38%,99,Explosive
+Zomato,Software Engineer,"Python,Machine Learning",5,8,8+ Years,Pune,Hybrid,IT/Tech,+22%,82,Very High
+PhonePe,Product Manager,"Python,Machine Learning",10,17,5-8 Years,Chennai,Hybrid,IT/Tech,+45%,73,Very High
+Razorpay,Full Stack Developer,"Python,SQL,React",14,17,Entry Level,Mumbai,Onsite,IT/Tech,+45%,85,High
+Microsoft India,Frontend Developer,"Python,SQL,React",14,19,8+ Years,Mumbai,Hybrid,IT/Tech,+40%,75,Very High
+Google India,Full Stack Developer,"Python,SQL,React",10,13,Entry Level,Remote,Remote,IT/Tech,+50%,89,Very High
+Zomato,AI Engineer,"Python,Machine Learning",11,16,8+ Years,Hyderabad,Hybrid,IT/Tech,+56%,94,Stable
+Amazon India,Product Manager,"Python,Machine Learning",15,18,Entry Level,Chennai,Hybrid,IT/Tech,+51%,70,Explosive
+HCL,Data Scientist,"Python,Machine Learning",13,20,1-3 Years,Hyderabad,Onsite,IT/Tech,+57%,72,Stable
+Wipro,AI Engineer,"Python,Machine Learning",16,19,Entry Level,Chennai,Onsite,IT/Tech,+35%,72,Stable
+Swiggy,Blockchain Developer,"Python,SQL,React",4,8,5-8 Years,Hyderabad,Onsite,IT/Tech,+36%,80,Very High
+CRED,ML Engineer,"Python,Machine Learning",17,29,8+ Years,Mumbai,Hybrid,IT/Tech,+30%,93,Stable
+Krutrim,Data Scientist,"Python,Machine Learning",6,11,5-8 Years,Pune,Onsite,IT/Tech,+35%,88,Very High
+Infosys,Backend Developer,"Python,SQL,React",9,19,8+ Years,Remote,Remote,IT/Tech,+60%,78,Explosive
+Krutrim,UI/UX Designer,"Python,Machine Learning",15,24,8+ Years,Delhi/NCR,Hybrid,IT/Tech,+35%,96,Very High
+Jio,Data Scientist,"Python,Machine Learning",15,27,3-5 Years,Delhi/NCR,Hybrid,IT/Tech,+42%,86,Stable
+Zomato,Prompt Engineer,"Python,Machine Learning",10,22,3-5 Years,Chennai,Hybrid,IT/Tech,+55%,82,Very High
+Jio,Cloud Engineer,"Python,Machine Learning",3,6,Entry Level,Delhi/NCR,Hybrid,IT/Tech,+15%,77,Very High
+PhonePe,Product Manager,"Python,Machine Learning",12,15,8+ Years,Hyderabad,Onsite,IT/Tech,+42%,84,Explosive
+Krutrim,ML Engineer,"Python,Machine Learning",13,22,5-8 Years,Bangalore,Hybrid,IT/Tech,+29%,78,High
+Meesho,Frontend Developer,"Python,SQL,React",6,16,1-3 Years,Delhi/NCR,Hybrid,IT/Tech,+23%,96,Stable
+Capgemini,Full Stack Developer,"Python,SQL,React",4,9,3-5 Years,Hyderabad,Hybrid,IT/Tech,+21%,78,Very High
+HCL,Data Analyst,"Python,Machine Learning",13,21,5-8 Years,Hyderabad,Hybrid,IT/Tech,+55%,75,Very High
+Jio,Blockchain Developer,"Python,SQL,React",13,16,1-3 Years,Hyderabad,Hybrid,IT/Tech,+33%,93,Very High
+Zoho,Blockchain Developer,"Python,SQL,React",4,15,8+ Years,Mumbai,Hybrid,IT/Tech,+43%,97,Stable
+Capgemini,ML Engineer,"Python,Machine Learning",18,26,3-5 Years,Mumbai,Onsite,IT/Tech,+19%,91,Stable
+Swiggy,ML Engineer,"Python,Machine Learning",8,11,Entry Level,Remote,Remote,IT/Tech,+57%,80,Stable
+Zerodha,Backend Developer,"Python,SQL,React",14,25,8+ Years,Chennai,Onsite,IT/Tech,+27%,75,High
+Razorpay,Full Stack Developer,"Python,SQL,React",21,30,1-3 Years,Hyderabad,Hybrid,IT/Tech,+58%,88,Explosive
+Deloitte,Software Engineer,"Python,Machine Learning",5,12,5-8 Years,Pune,Hybrid,IT/Tech,+28%,80,High
+Freshworks,Data Analyst,"Python,Machine Learning",3,13,3-5 Years,Mumbai,Onsite,IT/Tech,+59%,95,Very High
+Google India,ML Engineer,"Python,Machine Learning",17,30,8+ Years,Chennai,Hybrid,IT/Tech,+34%,80,Very High
+Cognizant,Frontend Developer,"Python,SQL,React",3,11,5-8 Years,Chennai,Onsite,IT/Tech,+32%,76,Explosive
+Meesho,Cybersecurity Analyst,"Python,Machine Learning",9,12,1-3 Years,Hyderabad,Hybrid,IT/Tech,+31%,70,High
