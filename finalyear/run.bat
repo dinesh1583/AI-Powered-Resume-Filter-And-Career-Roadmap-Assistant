@@ -30,6 +30,6 @@ start "" cmd /k "uvicorn backend.main:app --host 127.0.0.1 --port 8000"
 
 timeout /t 5 >nul
 
-start "" http://127.0.0.1:8000
+start "" https://ai-powered-resume-filter-and-career.onrender.com
 
 exit

@@ -162,8 +162,8 @@ npm run dev
 
 The app will be available at:
 - **Frontend:** http://localhost:5173
-- **Backend API:** http://localhost:8000
-- **API Docs:** http://localhost:8000/docs
+- **Backend API:** https://ai-powered-resume-filter-and-career.onrender.com
+- **API Docs:** https://ai-powered-resume-filter-and-career.onrender.com/docs
 
 ---
 

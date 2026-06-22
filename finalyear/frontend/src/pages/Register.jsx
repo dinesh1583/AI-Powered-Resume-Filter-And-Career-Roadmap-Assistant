@@ -46,7 +46,7 @@ const Register = () => {
     } catch (err) {
       // FIX: Removed fake demo-token bypass — was allowing unauthenticated access
       if (err.code === 'ERR_NETWORK') {
-        setError('Cannot connect to the server. Please ensure the backend is running on http://localhost:8000');
+        setError('Cannot connect to the server. Please ensure the backend is running on https://ai-powered-resume-filter-and-career.onrender.com');
       } else {
         setError(err.response?.data?.detail || 'Registration failed. Try again.');
       }

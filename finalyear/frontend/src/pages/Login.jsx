@@ -31,7 +31,7 @@ const Login = () => {
       navigate('/dashboard');
     } catch (err) {
       if (err.code === 'ERR_NETWORK') {
-        setError('Cannot connect to the server. Please ensure the backend is running on http://localhost:8000');
+        setError('Cannot connect to the server. Please ensure the backend is running on https://ai-powered-resume-filter-and-career.onrender.com');
       } else {
         setError(err.response?.data?.detail || 'Invalid email or password');
       }

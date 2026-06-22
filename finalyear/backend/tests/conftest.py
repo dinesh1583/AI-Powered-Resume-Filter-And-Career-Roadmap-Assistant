@@ -18,7 +18,7 @@ if PROJECT_ROOT not in sys.path:
 @pytest.fixture(scope="session")
 def base_url():
     """Base URL for the running FastAPI server."""
-    return os.getenv("TEST_API_URL", "http://localhost:8000")
+    return os.getenv("TEST_API_URL", "https://ai-powered-resume-filter-and-career.onrender.com")
 
 
 @pytest.fixture(scope="session")

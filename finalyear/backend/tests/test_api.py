@@ -2,7 +2,7 @@
 Integration tests for Auth, User, Jobs, Recommendations, and Roadmap API endpoints.
 
 Prerequisites:
-    - Backend server running at http://localhost:8000
+    - Backend server running at https://ai-powered-resume-filter-and-career.onrender.com
     - MongoDB connected
 
 Run:

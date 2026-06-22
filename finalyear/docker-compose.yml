@@ -25,7 +25,7 @@ services:
     ports:
       - "3000:80"
     environment:
-      - VITE_API_URL=http://localhost:8000
+      - VITE_API_URL=https://ai-powered-resume-filter-and-career.onrender.com
     depends_on:
       - backend
     restart: unless-stopped
